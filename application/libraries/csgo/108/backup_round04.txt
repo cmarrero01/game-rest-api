@@ -1,0 +1,72 @@
+"SaveFile"
+{
+	"timestamp"		"2013-09-05 12:54:27"
+	"map"		"ar_baggage"
+	"round"		"4"
+	"FirstHalfScore"
+	{
+		"team1"		"0"
+		"team2"		"4"
+	}
+	"History"
+	{
+		"NumConsecutiveCTLoses"		"4"
+		"LoserBonus"		"2900"
+	}
+	"PlayersOnTeam1"
+	{
+		"109358022"
+		{
+			"name"		"Dijkstra"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"4"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"9400"
+		}
+		"85151374"
+		{
+			"name"		"Drahtz"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"4"
+			"mvps"		"0"
+			"score"		"0"
+			"cash"		"9400"
+		}
+	}
+	"PlayersOnTeam2"
+	{
+		"113390233"
+		{
+			"name"		"Cuchillin"
+			"kills"		"7"
+			"assists"		"0"
+			"deaths"		"0"
+			"mvps"		"3"
+			"score"		"14"
+			"cash"		"14900"
+			"Items"
+			{
+				"item"		"weapon_knife"
+				"item"		"weapon_glock"
+			}
+		}
+		"68280241"
+		{
+			"name"		"KaiserSoze"
+			"kills"		"1"
+			"assists"		"1"
+			"deaths"		"0"
+			"mvps"		"1"
+			"score"		"3"
+			"cash"		"13100"
+			"Items"
+			{
+				"item"		"weapon_knife"
+				"item"		"weapon_glock"
+			}
+		}
+	}
+}

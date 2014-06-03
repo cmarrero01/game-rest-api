@@ -1,0 +1,1057 @@
+<<<<<<< HEAD
+Server is hibernating
+Particles: Missing 'particles/maps/gg_vietnam.pcf'
+CDedicatedServerWorkshopManager::GetNewestSubscribedFiles
+No web api auth key specified - workshop downloads will be disabled.
+maxplayers set to 64
+Unknown command "cl_bobamt_vert"
+Unknown command "cl_bobamt_lat"
+Unknown command "cl_bob_lower_amt"
+Unknown command "cl_viewmodel_shift_left_amt"
+Unknown command "cl_viewmodel_shift_right_amt"
+Unknown command "cl_teamid_min"
+Unknown command "cl_teamid_max"
+Unknown command "cl_teamid_overhead"
+Unknown command "cl_teamid_overhead_maxdist"
+Usage: host_workshop_collection <fileid>
+Host_MapGroup_f: No mapgroup specified
+Unknown command "mat_bloom_scalefactor_scalar"
+NET_GetBindAddresses found 66.55.149.25: 'Intel(R) 82574L Gigabit Network Connection #2'
+Network: IP 208.167.232.112 mode MP, dedicated No, ports 27035 SV / 27006 CL
+---- Host_NewGame ----
+Host_NewGame on map ar_baggage
+L 09/03/2013 - 07:40:13: -------- Mapchange to ar_baggage --------
+CGameEventManager::AddListener: event 'teamplay_win_panel' unknown.
+CGameEventManager::AddListener: event 'teamplay_restart_round' unknown.
+CGameEventManager::AddListener: event 'arena_win_panel' unknown.
+GameTypes: initializing game types interface from GameModes.txt.
+GameTypes: merging game types interface from gamemodes_server.txt.
+GameTypes: missing mapgroupsSP entry for game type/mode (custom/custom).
+bot_autodifficulty_threshold_high - 2.0
+bot_autodifficulty_threshold_low - -6.0
+bot_chatter - normal
+bot_defer_to_human_goals - 0
+bot_defer_to_human_items - 1
+bot_difficulty - 1
+bot_quota - 10
+bot_quota_mode - normal
+bot_allow_grenades - 1
+bot_allow_pistols - 1
+bot_allow_sub_machine_guns - 1
+bot_allow_shotguns - 1
+bot_allow_rifles - 1
+bot_allow_snipers - 1
+bot_allow_machine_guns - 1
+mp_playercashawards - 1
+cash_player_bomb_defused - 300
+cash_player_bomb_planted - 300
+cash_player_damage_hostage - -30
+cash_player_interact_with_hostage - 150
+cash_player_killed_enemy_default - 300
+cash_player_killed_enemy_factor - 1
+cash_player_killed_hostage - -1000
+cash_player_killed_teammate - -3300
+cash_player_rescued_hostage - 1000
+cash_player_respawn_amount - 0
+cash_player_get_killed - 0
+mp_teamcashawards - 1
+cash_team_elimination_bomb_map - 3250
+cash_team_elimination_hostage_map_t - 1000
+cash_team_elimination_hostage_map_ct - 2000
+cash_team_hostage_alive - 0
+cash_team_hostage_interaction - 500
+cash_team_loser_bonus - 1400
+cash_team_loser_bonus_consecutive_rounds - 500
+cash_team_planted_bomb_but_defused - 800
+cash_team_rescued_hostage - 0
+cash_team_terrorist_win_bomb - 3500
+cash_team_win_by_defusing_bomb - 3250
+cash_team_win_by_hostage_rescue - 3500
+cash_team_win_by_time_running_out_bomb - 3250
+cash_team_win_by_time_running_out_hostage - 3250
+mp_afterroundmoney - 0
+mp_buytime - 90
+mp_buy_anywhere - 0
+mp_buy_during_immunity - 0
+mp_startmoney - 800
+mp_maxmoney - 16000
+mp_death_drop_defuser - 1
+mp_death_drop_grenade - 2
+mp_death_drop_gun - 1
+mp_deathcam_skippable - 1
+mp_defuser_allocation - 0
+mp_give_player_c4 - 1
+mp_free_armor - 0
+mp_molotovusedelay - 15.0
+mp_weapons_allow_zeus - 1
+mp_weapons_allow_map_placed - 0
+mp_weapons_glow_on_ground - 0
+mp_ct_default_melee - weapon_knife
+mp_ct_default_secondary - weapon_hkp2000
+mp_ct_default_primary - 
+mp_ct_default_grenades - 
+mp_t_default_melee - weapon_knife
+mp_t_default_secondary - weapon_glock
+mp_t_default_primary - 
+mp_t_default_grenades - 
+mp_buy_allow_grenades - 1
+mp_freezetime - 6
+mp_force_pick_time - 15
+mp_halftime - 0
+mp_match_can_clinch - 1
+mp_maxrounds - 0
+mp_roundtime - 5
+mp_roundtime_defuse - 0
+mp_roundtime_hostage - 0
+mp_timelimit - 5
+mp_warmuptime - 30
+mp_warmup_pausetimer - 0
+mp_halftime_pausetimer - 0
+mp_default_team_winner_no_objective - -1
+mp_hostagepenalty - 10
+mp_solid_teammates - 1
+sv_allow_votes - 1
+sv_alltalk - 0
+sv_deadtalk - 0
+sv_ignoregrenaderadio - 0
+mp_teammates_are_enemies - 0
+mp_damage_scale_ct_body - 1.0
+mp_damage_scale_ct_head - 1.0
+mp_damage_scale_t_body - 1.0
+mp_damage_scale_t_head - 1.0
+mp_friendlyfire - 0
+ff_damage_reduction_bullets - 0.1
+ff_damage_reduction_grenade - 0.25
+ff_damage_reduction_grenade_self - 1
+ff_damage_reduction_other - 0.25
+mp_limitteams - 2
+spec_freeze_panel_extended_time - 0.0
+spec_freeze_time - 5.0
+mp_forcecamera - 1
+mp_respawn_immunitytime - 4.0
+mp_respawn_on_death_t - 0
+mp_respawn_on_death_ct - 0
+mp_display_kill_assists - 1
+mp_use_respawn_waves - 0
+mp_respawnwavetime_ct - 10.0
+mp_respawnwavetime_t - 10.0
+mp_randomspawn - 0
+mp_randomspawn_los - 1
+mp_radar_showall - 0
+sv_gravity - 800
+sv_accelerate - 5.6
+sv_stopspeed - 75
+sv_airaccelerate - 10
+sv_wateraccelerate - 10
+sv_waterfriction - 1
+sv_friction - 4.8
+sv_bounce - 0
+sv_maxvelocity - 3500
+sv_maxspeed - 320
+mp_ggprogressive_round_restart_delay - 15.0
+mp_ggtr_bomb_defuse_bonus - 1.0
+mp_ggtr_bomb_detonation_bonus - 1.0
+mp_ggtr_bomb_pts_for_flash - 4
+mp_ggtr_bomb_pts_for_he - 3
+mp_ggtr_bomb_pts_for_molotov - 5
+mp_ggtr_bomb_pts_for_upgrade - 2.0
+mp_ggtr_bomb_respawn_delay - 0.0
+mp_ggtr_end_round_kill_bonus - 1
+mp_ggtr_halftime_delay - 0.0
+mp_ggtr_last_weapon_kill_ends_half - 0
+sv_arms_race_vote_to_restart_disallowed_after - 0
+Executing dedicated server config file
+Server logging enabled.
+Server logging data to file logs\L208_167_232_112_27035_201309030740_000.log
+L 09/03/2013 - 07:40:13: Log file started (file "logs\L208_167_232_112_27035_201309030740_000.log") (game "c:\games\208_167_232_112_27035\1004734\csgo\csgo") (version "5406")
+L 09/03/2013 - 07:40:13: server_cvar: "mp_autoteambalance" "0"
+L 09/03/2013 - 07:40:13: server_cvar: "mp_freezetime" "0"
+L 09/03/2013 - 07:40:13: server_cvar: "mp_limitteams" "0"
+maxplayers set to 64
+L 09/03/2013 - 07:40:13: server_cvar: "tv_enable" "1"
+L 09/03/2013 - 07:40:13: server_cvar: "tv_password" "***PROTECTED***"
+L 09/03/2013 - 07:40:13: server_cvar: "cash_player_interact_with_hostage" "300"
+L 09/03/2013 - 07:40:13: server_cvar: "cash_team_elimination_hostage_map_t" "3000"
+L 09/03/2013 - 07:40:13: server_cvar: "cash_team_elimination_hostage_map_ct" "3000"
+L 09/03/2013 - 07:40:13: server_cvar: "cash_team_hostage_interaction" "600"
+L 09/03/2013 - 07:40:13: server_cvar: "cash_team_rescued_hostage" "600"
+L 09/03/2013 - 07:40:13: server_cvar: "cash_team_win_by_defusing_bomb" "3500"
+L 09/03/2013 - 07:40:13: server_cvar: "cash_team_win_by_hostage_rescue" "2900"
+Unknown command "mp_deathcam_skippable"
+L 09/03/2013 - 07:40:13: server_cvar: "mp_freezetime" "15"
+L 09/03/2013 - 07:40:13: server_cvar: "mp_friendlyfire" "1"
+L 09/03/2013 - 07:40:13: server_cvar: "mp_maxrounds" "30"
+L 09/03/2013 - 07:40:13: server_cvar: "mp_roundtime" "2"
+L 09/03/2013 - 07:40:13: server_cvar: "mp_roundtime_hostage" "2"
+L 09/03/2013 - 07:40:13: server_cvar: "mp_roundtime_defuse" "2"
+L 09/03/2013 - 07:40:13: server_cvar: "mp_timelimit" "0"
+L 09/03/2013 - 07:40:13: server_cvar: "sv_deadtalk" "1"
+exec: couldn't exec gamemode_competitive_server.cfg
+mdlcache.cpp(1917): MDL Cache allocation outside the pool. player/ct_animations.mdl : 32776.
+Commentary: Could not find commentary data file 'maps/ar_baggage_commentary.txt'. 
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+L 09/03/2013 - 07:40:14: "GOTV<2><BOT><>" connected, address "none"
+PutClientInServer: no info_player_start on level
+L 09/03/2013 - 07:40:14: "GOTV<2><BOT><>" entered the game
+L 09/03/2013 - 07:40:14: "GOTV<2><BOT><Unassigned>" changed name to "Battle Pro Beta TV GOTV"
+Initializing Steam libraries for secure Internet server
+Logging into anonymous gameserver account.
+GOTV broadcast active.
+Connection to Steam servers successful.
+   Public IP is 208.167.232.112.
+Assigned anonymous gameserver Steam ID [A:1:1562313730(3624)].
+VAC secure mode is activated.
+-> Reservation cookie 18600007cb86fcc:  reason ReplyReservationRequest
+ApplyGameSettings: Map ar_baggage not part of Mapgroup 
+ApplyGameSettings: MapGroup  not part of type classic mode competitive
+Executing server command:
+mapgroup 
+nextlevel ar_baggage
+map ar_baggage reserved
+
+---
+Host_MapGroup_f: No mapgroup specified
+L 09/03/2013 - 07:40:23: server_cvar: "nextlevel" "ar_baggage"
+L 09/03/2013 - 07:40:23: [META] Loaded 0 plugins (1 already loaded)
+---- Host_Changelevel ----
+L 09/03/2013 - 07:40:23: [META] Loaded 0 plugins (1 already loaded)
+*** Map Load: ar_baggage: Map Group L 09/03/2013 - 07:40:23: Loading map "ar_baggage"
+L 09/03/2013 - 07:40:23: server cvars start
+L 09/03/2013 - 07:40:23: "cash_player_killed_teammate" = "-3300"
+L 09/03/2013 - 07:40:23: "sv_maxspeed" = "320"
+L 09/03/2013 - 07:40:23: "cash_player_respawn_amount" = "0"
+L 09/03/2013 - 07:40:23: "cash_team_rescued_hostage" = "600"
+L 09/03/2013 - 07:40:23: "cash_team_win_by_defusing_bomb" = "3500"
+L 09/03/2013 - 07:40:23: "sv_rollangle" = "0"
+L 09/03/2013 - 07:40:23: "r_AirboatViewZHeight" = "0.0"
+L 09/03/2013 - 07:40:23: "sv_cheats" = "0"
+L 09/03/2013 - 07:40:23: "r_VehicleViewDampen" = "1"
+L 09/03/2013 - 07:40:23: "metamod_version" = "1.10.0-devV"
+L 09/03/2013 - 07:40:23: "mp_allowNPCs" = "1"
+L 09/03/2013 - 07:40:23: "mp_tournament" = "0"
+L 09/03/2013 - 07:40:23: "sv_spec_hear" = "1"
+L 09/03/2013 - 07:40:23: "cash_player_interact_with_hostage" = "300"
+L 09/03/2013 - 07:40:23: "mp_flashlight" = "0"
+L 09/03/2013 - 07:40:23: "mp_maxrounds" = "30"
+L 09/03/2013 - 07:40:23: "sv_tags" = ""
+L 09/03/2013 - 07:40:23: "sv_stepsize" = "18"
+L 09/03/2013 - 07:40:23: "mp_teamlist" = "hgrunt;scientist"
+L 09/03/2013 - 07:40:23: "sv_alltalk" = "0"
+L 09/03/2013 - 07:40:23: "mp_footsteps" = "1"
+L 09/03/2013 - 07:40:23: "sv_noclipaccelerate" = "5"
+L 09/03/2013 - 07:40:23: "sv_wateraccelerate" = "10"
+L 09/03/2013 - 07:40:23: "mp_autocrosshair" = "1"
+L 09/03/2013 - 07:40:23: "mp_stalemate_enable" = "0"
+L 09/03/2013 - 07:40:23: "sourcemod_version" = "1.5.0-dev+3755"
+L 09/03/2013 - 07:40:23: "cash_team_elimination_bomb_map" = "3250"
+L 09/03/2013 - 07:40:23: "cash_player_get_killed" = "0"
+L 09/03/2013 - 07:40:23: "mp_roundtime_defuse" = "2"
+L 09/03/2013 - 07:40:23: "sv_autobuyammo" = "1"
+L 09/03/2013 - 07:40:23: "sv_rollspeed" = "200"
+L 09/03/2013 - 07:40:23: "sv_airaccelerate" = "10"
+L 09/03/2013 - 07:40:23: "mp_teams_unbalance_limit" = "1"
+L 09/03/2013 - 07:40:23: "mp_timelimit" = "0"
+L 09/03/2013 - 07:40:23: "cash_team_loser_bonus" = "1400"
+L 09/03/2013 - 07:40:23: "sv_deadtalk" = "1"
+L 09/03/2013 - 07:40:23: "cash_player_rescued_hostage" = "1000"
+L 09/03/2013 - 07:40:23: "sv_waterfriction" = "1"
+L 09/03/2013 - 07:40:23: "sv_competitive_official_5v5" = "0"
+L 09/03/2013 - 07:40:23: "sv_steamgroup" = ""
+L 09/03/2013 - 07:40:23: "cash_player_killed_enemy_default" = "300"
+L 09/03/2013 - 07:40:23: "coop" = "0"
+L 09/03/2013 - 07:40:23: "mp_respawnwavetime" = "10.0"
+L 09/03/2013 - 07:40:23: "nextlevel" = "ar_baggage"
+L 09/03/2013 - 07:40:23: "sv_stopspeed" = "75"
+L 09/03/2013 - 07:40:23: "sv_specaccelerate" = "5"
+L 09/03/2013 - 07:40:23: "deathmatch" = "1"
+L 09/03/2013 - 07:40:23: "tv_enable" = "1"
+L 09/03/2013 - 07:40:23: "mp_falldamage" = "0"
+L 09/03/2013 - 07:40:23: "mp_teammates_are_enemies" = "0"
+L 09/03/2013 - 07:40:23: "mp_roundtime_hostage" = "2"
+L 09/03/2013 - 07:40:23: "mp_freezetime" = "15"
+L 09/03/2013 - 07:40:23: "sv_accelerate_use_weapon_speed" = "0"
+L 09/03/2013 - 07:40:23: "sv_voiceenable" = "1"
+L 09/03/2013 - 07:40:23: "sv_bounce" = "0"
+L 09/03/2013 - 07:40:23: "r_AirboatViewDampenFreq" = "7.0"
+L 09/03/2013 - 07:40:23: "mp_disable_respawn_times" = "0"
+L 09/03/2013 - 07:40:23: "mp_weaponstay" = "0"
+L 09/03/2013 - 07:40:23: "mp_hostagepenalty" = "10"
+L 09/03/2013 - 07:40:23: "tv_advertise_watchable" = "0"
+L 09/03/2013 - 07:40:23: "mp_friendlyfire" = "1"
+L 09/03/2013 - 07:40:23: "sv_noclipspeed" = "5"
+L 09/03/2013 - 07:40:23: "cash_team_hostage_interaction" = "600"
+L 09/03/2013 - 07:40:23: "sv_allchat" = "1"
+L 09/03/2013 - 07:40:23: "cash_team_win_by_time_running_out_bomb" = "3250"
+L 09/03/2013 - 07:40:23: "mp_buy_during_immunity" = "0"
+L 09/03/2013 - 07:40:23: "cash_player_killed_enemy_factor" = "1"
+L 09/03/2013 - 07:40:23: "r_JeepViewDampenDamp" = "1.0"
+L 09/03/2013 - 07:40:23: "mp_c4timer" = "45"
+L 09/03/2013 - 07:40:23: "r_AirboatViewDampenDamp" = "1.0"
+L 09/03/2013 - 07:40:23: "sv_competitive_minspec" = "1"
+L 09/03/2013 - 07:40:23: "sm_nextmap" = ""
+L 09/03/2013 - 07:40:23: "mp_stalemate_at_timelimit" = "0"
+L 09/03/2013 - 07:40:23: "sv_footsteps" = "1"
+L 09/03/2013 - 07:40:23: "mp_limitteams" = "0"
+L 09/03/2013 - 07:40:23: "sv_vote_issue_kick_allowed" = "1"
+L 09/03/2013 - 07:40:23: "tv_relaypassword" = ""
+L 09/03/2013 - 07:40:23: "mp_teamplay" = "0"
+L 09/03/2013 - 07:40:23: "cash_team_terrorist_win_bomb" = "3500"
+L 09/03/2013 - 07:40:23: "cash_team_elimination_hostage_map_t" = "3000"
+L 09/03/2013 - 07:40:23: "r_JeepViewDampenFreq" = "7.0"
+L 09/03/2013 - 07:40:23: "sv_specnoclip" = "1"
+L 09/03/2013 - 07:40:23: "sv_friction" = "4.8"
+L 09/03/2013 - 07:40:23: "cash_team_win_by_time_running_out_hostage" = "3250"
+L 09/03/2013 - 07:40:23: "cash_player_bomb_planted" = "300"
+L 09/03/2013 - 07:40:23: "mp_autoteambalance" = "0"
+L 09/03/2013 - 07:40:23: "sv_contact" = ""
+L 09/03/2013 - 07:40:23: "sv_vote_kick_ban_duration" = "15"
+L 09/03/2013 - 07:40:23: "cash_player_bomb_defused" = "300"
+L 09/03/2013 - 07:40:23: "mp_roundtime" = "2"
+L 09/03/2013 - 07:40:23: "sv_kick_ban_duration" = "15"
+L 09/03/2013 - 07:40:23: "cash_team_planted_bomb_but_defused" = "800"
+L 09/03/2013 - 07:40:23: "cash_player_killed_hostage" = "-1000"
+L 09/03/2013 - 07:40:23: "mp_fraglimit" = "0"
+L 09/03/2013 - 07:40:23: "mp_forcerespawn" = "1"
+L 09/03/2013 - 07:40:23: "decalfrequency" = "10"
+L 09/03/2013 - 07:40:23: "mp_buy_anywhere" = "0"
+L 09/03/2013 - 07:40:23: "sv_accelerate" = "5.6"
+L 09/03/2013 - 07:40:23: "mp_winlimit" = "0"
+L 09/03/2013 - 07:40:23: "sv_gravity" = "800"
+L 09/03/2013 - 07:40:23: "sv_password" = "battle2011"
+L 09/03/2013 - 07:40:23: "cash_team_elimination_hostage_map_ct" = "3000"
+L 09/03/2013 - 07:40:23: "cash_team_win_by_hostage_rescue" = "2900"
+L 09/03/2013 - 07:40:23: "r_JeepViewZHeight" = "10.0"
+L 09/03/2013 - 07:40:23: "cash_team_loser_bonus_consecutive_rounds" = "500"
+L 09/03/2013 - 07:40:23: "cash_player_damage_hostage" = "-30"
+L 09/03/2013 - 07:40:23: "cash_team_hostage_alive" = "0"
+L 09/03/2013 - 07:40:23: "tv_password" = "battle2011"
+L 09/03/2013 - 07:40:23: "sv_specspeed" = "3"
+L 09/03/2013 - 07:40:23: server cvars end
+L 09/03/2013 - 07:40:23: Started map "ar_baggage" (CRC "-1458358218")
+L 09/03/2013 - 07:40:23: -------- Mapchange to ar_baggage --------
+=======
+-> Reservation cookie 18600007d0d4e90:  reason ReplyReservationRequest
+ApplyGameSettings: Map ar_shoots not part of Mapgroup mg_bomb
+ApplyGameSettings: MapGroup mg_bomb not part of type gungame mode deathmatch
+Executing server command:
+mapgroup mg_bomb
+nextlevel ar_shoots
+map ar_shoots reserved
+
+---
+Setting mapgroup to 'mg_bomb'
+L 09/05/2013 - 15:20:05: server_cvar: "nextlevel" "ar_shoots"
+Server waking up from hibernation
+L 09/05/2013 - 15:20:05: [META] Loaded 0 plugins (1 already loaded)
+---- Host_Changelevel ----
+L 09/05/2013 - 15:20:05: [META] Loaded 0 plugins (1 already loaded)
+*** Map Load: ar_shoots: Map Group mg_bombL 09/05/2013 - 15:20:05: Loading map "ar_shoots"
+L 09/05/2013 - 15:20:05: server cvars start
+L 09/05/2013 - 15:20:05: "cash_player_killed_teammate" = "0"
+L 09/05/2013 - 15:20:05: "sv_maxspeed" = "320"
+L 09/05/2013 - 15:20:05: "cash_player_respawn_amount" = "0"
+L 09/05/2013 - 15:20:05: "cash_team_rescued_hostage" = "0"
+L 09/05/2013 - 15:20:05: "cash_team_win_by_defusing_bomb" = "0"
+L 09/05/2013 - 15:20:05: "sv_rollangle" = "0"
+L 09/05/2013 - 15:20:05: "r_AirboatViewZHeight" = "0.0"
+L 09/05/2013 - 15:20:05: "sv_cheats" = "0"
+L 09/05/2013 - 15:20:05: "r_VehicleViewDampen" = "1"
+L 09/05/2013 - 15:20:05: "metamod_version" = "1.10.0-devV"
+L 09/05/2013 - 15:20:05: "mp_allowNPCs" = "1"
+L 09/05/2013 - 15:20:05: "mp_tournament" = "0"
+L 09/05/2013 - 15:20:05: "sv_spec_hear" = "1"
+L 09/05/2013 - 15:20:05: "cash_player_interact_with_hostage" = "0"
+L 09/05/2013 - 15:20:05: "mp_flashlight" = "0"
+L 09/05/2013 - 15:20:05: "mp_maxrounds" = "0"
+L 09/05/2013 - 15:20:05: "sv_tags" = ""
+L 09/05/2013 - 15:20:05: "sv_stepsize" = "18"
+L 09/05/2013 - 15:20:05: "mp_teamlist" = "hgrunt;scientist"
+L 09/05/2013 - 15:20:05: "sv_alltalk" = "1"
+L 09/05/2013 - 15:20:05: "mp_footsteps" = "1"
+L 09/05/2013 - 15:20:05: "sv_noclipaccelerate" = "5"
+L 09/05/2013 - 15:20:05: "sv_wateraccelerate" = "10"
+L 09/05/2013 - 15:20:05: "mp_autocrosshair" = "1"
+L 09/05/2013 - 15:20:05: "mp_stalemate_enable" = "0"
+L 09/05/2013 - 15:20:05: "sourcemod_version" = "1.5.0-dev+3755"
+L 09/05/2013 - 15:20:05: "cash_team_elimination_bomb_map" = "0"
+L 09/05/2013 - 15:20:05: "cash_player_get_killed" = "0"
+L 09/05/2013 - 15:20:05: "mp_roundtime_defuse" = "0"
+L 09/05/2013 - 15:20:05: "sv_autobuyammo" = "1"
+L 09/05/2013 - 15:20:05: "sv_rollspeed" = "200"
+L 09/05/2013 - 15:20:05: "sv_airaccelerate" = "10"
+L 09/05/2013 - 15:20:05: "mp_teams_unbalance_limit" = "1"
+L 09/05/2013 - 15:20:05: "mp_timelimit" = "10"
+L 09/05/2013 - 15:20:05: "cash_team_loser_bonus" = "0"
+L 09/05/2013 - 15:20:05: "sv_deadtalk" = "1"
+L 09/05/2013 - 15:20:05: "cash_player_rescued_hostage" = "0"
+L 09/05/2013 - 15:20:05: "sv_waterfriction" = "1"
+L 09/05/2013 - 15:20:05: "sv_competitive_official_5v5" = "0"
+L 09/05/2013 - 15:20:05: "sv_steamgroup" = ""
+L 09/05/2013 - 15:20:05: "cash_player_killed_enemy_default" = "0"
+L 09/05/2013 - 15:20:05: "coop" = "0"
+L 09/05/2013 - 15:20:05: "mp_respawnwavetime" = "10.0"
+L 09/05/2013 - 15:20:05: "nextlevel" = "ar_shoots"
+L 09/05/2013 - 15:20:05: "sv_stopspeed" = "75"
+L 09/05/2013 - 15:20:05: "sv_specaccelerate" = "5"
+L 09/05/2013 - 15:20:05: "deathmatch" = "1"
+L 09/05/2013 - 15:20:05: "tv_enable" = "1"
+L 09/05/2013 - 15:20:05: "mp_falldamage" = "0"
+L 09/05/2013 - 15:20:05: "mp_teammates_are_enemies" = "0"
+L 09/05/2013 - 15:20:05: "mp_roundtime_hostage" = "0"
+L 09/05/2013 - 15:20:05: "mp_freezetime" = "0"
+L 09/05/2013 - 15:20:05: "sv_accelerate_use_weapon_speed" = "0"
+L 09/05/2013 - 15:20:05: "sv_voiceenable" = "1"
+L 09/05/2013 - 15:20:05: "sv_bounce" = "0"
+L 09/05/2013 - 15:20:05: "r_AirboatViewDampenFreq" = "7.0"
+L 09/05/2013 - 15:20:05: "mp_disable_respawn_times" = "0"
+L 09/05/2013 - 15:20:05: "mp_weaponstay" = "0"
+L 09/05/2013 - 15:20:05: "mp_hostagepenalty" = "10"
+L 09/05/2013 - 15:20:05: "tv_advertise_watchable" = "0"
+L 09/05/2013 - 15:20:05: "mp_friendlyfire" = "1"
+L 09/05/2013 - 15:20:05: "sv_noclipspeed" = "5"
+L 09/05/2013 - 15:20:05: "cash_team_hostage_interaction" = "0"
+L 09/05/2013 - 15:20:05: "sv_allchat" = "1"
+L 09/05/2013 - 15:20:05: "cash_team_win_by_time_running_out_bomb" = "0"
+L 09/05/2013 - 15:20:05: "mp_buy_during_immunity" = "1"
+L 09/05/2013 - 15:20:05: "cash_player_killed_enemy_factor" = "0"
+L 09/05/2013 - 15:20:05: "r_JeepViewDampenDamp" = "1.0"
+L 09/05/2013 - 15:20:05: "mp_c4timer" = "45"
+L 09/05/2013 - 15:20:05: "r_AirboatViewDampenDamp" = "1.0"
+L 09/05/2013 - 15:20:05: "sv_competitive_minspec" = "1"
+L 09/05/2013 - 15:20:05: "sm_nextmap" = ""
+L 09/05/2013 - 15:20:05: "mp_stalemate_at_timelimit" = "0"
+L 09/05/2013 - 15:20:05: "sv_footsteps" = "1"
+L 09/05/2013 - 15:20:05: "mp_limitteams" = "0"
+L 09/05/2013 - 15:20:05: "sv_vote_issue_kick_allowed" = "1"
+L 09/05/2013 - 15:20:05: "tv_relaypassword" = ""
+L 09/05/2013 - 15:20:05: "mp_teamplay" = "0"
+L 09/05/2013 - 15:20:05: "cash_team_terrorist_win_bomb" = "0"
+L 09/05/2013 - 15:20:05: "cash_team_elimination_hostage_map_t" = "0"
+L 09/05/2013 - 15:20:05: "r_JeepViewDampenFreq" = "7.0"
+L 09/05/2013 - 15:20:05: "sv_specnoclip" = "1"
+L 09/05/2013 - 15:20:05: "sv_friction" = "4.8"
+L 09/05/2013 - 15:20:05: "cash_team_win_by_time_running_out_hostage" = "0"
+L 09/05/2013 - 15:20:05: "cash_player_bomb_planted" = "0"
+L 09/05/2013 - 15:20:05: "mp_autoteambalance" = "0"
+L 09/05/2013 - 15:20:05: "sv_contact" = ""
+L 09/05/2013 - 15:20:05: "sv_vote_kick_ban_duration" = "15"
+L 09/05/2013 - 15:20:05: "cash_player_bomb_defused" = "0"
+L 09/05/2013 - 15:20:05: "mp_roundtime" = "10"
+L 09/05/2013 - 15:20:05: "sv_kick_ban_duration" = "15"
+L 09/05/2013 - 15:20:05: "cash_team_planted_bomb_but_defused" = "0"
+L 09/05/2013 - 15:20:05: "cash_player_killed_hostage" = "0"
+L 09/05/2013 - 15:20:05: "mp_fraglimit" = "0"
+L 09/05/2013 - 15:20:05: "mp_forcerespawn" = "1"
+L 09/05/2013 - 15:20:05: "decalfrequency" = "10"
+L 09/05/2013 - 15:20:05: "mp_buy_anywhere" = "1"
+L 09/05/2013 - 15:20:05: "sv_accelerate" = "5.6"
+L 09/05/2013 - 15:20:05: "mp_winlimit" = "0"
+L 09/05/2013 - 15:20:05: "sv_gravity" = "800"
+L 09/05/2013 - 15:20:05: "sv_password" = "battle2011"
+L 09/05/2013 - 15:20:05: "cash_team_elimination_hostage_map_ct" = "0"
+L 09/05/2013 - 15:20:05: "cash_team_win_by_hostage_rescue" = "0"
+L 09/05/2013 - 15:20:05: "r_JeepViewZHeight" = "10.0"
+L 09/05/2013 - 15:20:05: "cash_team_loser_bonus_consecutive_rounds" = "0"
+L 09/05/2013 - 15:20:05: "cash_player_damage_hostage" = "0"
+L 09/05/2013 - 15:20:05: "cash_team_hostage_alive" = "0"
+L 09/05/2013 - 15:20:05: "tv_password" = "battle2011"
+L 09/05/2013 - 15:20:05: "sv_specspeed" = "3"
+L 09/05/2013 - 15:20:05: server cvars end
+L 09/05/2013 - 15:20:05: Started map "ar_shoots" (CRC "-1646274097")
+L 09/05/2013 - 15:20:05: -------- Mapchange to ar_shoots --------
+>>>>>>> a50f1e7885c71edd1cf8cf2d72733bfee233e3df
+GameTypes: initializing game types interface from GameModes.txt.
+GameTypes: merging game types interface from gamemodes_server.txt.
+GameTypes: missing mapgroupsSP entry for game type/mode (custom/custom).
+bot_autodifficulty_threshold_high - 2.0
+bot_autodifficulty_threshold_low - -6.0
+bot_chatter - normal
+bot_defer_to_human_goals - 0
+bot_defer_to_human_items - 1
+bot_difficulty - 1
+bot_quota - 10
+bot_quota_mode - normal
+bot_allow_grenades - 1
+bot_allow_pistols - 1
+bot_allow_sub_machine_guns - 1
+bot_allow_shotguns - 1
+bot_allow_rifles - 1
+bot_allow_snipers - 1
+bot_allow_machine_guns - 1
+mp_playercashawards - 1
+<<<<<<< HEAD
+cash_player_bomb_defused - 300
+cash_player_bomb_planted - 300
+cash_player_damage_hostage - -30
+L 09/03/2013 - 07:40:23: server_cvar: "cash_player_interact_with_hostage" "150"
+cash_player_interact_with_hostage - 150
+cash_player_killed_enemy_default - 300
+cash_player_killed_enemy_factor - 1
+cash_player_killed_hostage - -1000
+cash_player_killed_teammate - -3300
+=======
+L 09/05/2013 - 15:20:05: server_cvar: "cash_player_bomb_defused" "300"
+cash_player_bomb_defused - 300
+L 09/05/2013 - 15:20:05: server_cvar: "cash_player_bomb_planted" "300"
+cash_player_bomb_planted - 300
+L 09/05/2013 - 15:20:05: server_cvar: "cash_player_damage_hostage" "-30"
+cash_player_damage_hostage - -30
+L 09/05/2013 - 15:20:05: server_cvar: "cash_player_interact_with_hostage" "150"
+cash_player_interact_with_hostage - 150
+L 09/05/2013 - 15:20:05: server_cvar: "cash_player_killed_enemy_default" "300"
+cash_player_killed_enemy_default - 300
+L 09/05/2013 - 15:20:05: server_cvar: "cash_player_killed_enemy_factor" "1"
+cash_player_killed_enemy_factor - 1
+L 09/05/2013 - 15:20:05: server_cvar: "cash_player_killed_hostage" "-1000"
+cash_player_killed_hostage - -1000
+L 09/05/2013 - 15:20:05: server_cvar: "cash_player_killed_teammate" "-3300"
+cash_player_killed_teammate - -3300
+L 09/05/2013 - 15:20:05: server_cvar: "cash_player_rescued_hostage" "1000"
+>>>>>>> a50f1e7885c71edd1cf8cf2d72733bfee233e3df
+cash_player_rescued_hostage - 1000
+cash_player_respawn_amount - 0
+cash_player_get_killed - 0
+mp_teamcashawards - 1
+<<<<<<< HEAD
+cash_team_elimination_bomb_map - 3250
+L 09/03/2013 - 07:40:23: server_cvar: "cash_team_elimination_hostage_map_t" "1000"
+cash_team_elimination_hostage_map_t - 1000
+L 09/03/2013 - 07:40:23: server_cvar: "cash_team_elimination_hostage_map_ct" "2000"
+cash_team_elimination_hostage_map_ct - 2000
+cash_team_hostage_alive - 0
+L 09/03/2013 - 07:40:23: server_cvar: "cash_team_hostage_interaction" "500"
+cash_team_hostage_interaction - 500
+cash_team_loser_bonus - 1400
+cash_team_loser_bonus_consecutive_rounds - 500
+cash_team_planted_bomb_but_defused - 800
+L 09/03/2013 - 07:40:23: server_cvar: "cash_team_rescued_hostage" "0"
+cash_team_rescued_hostage - 0
+cash_team_terrorist_win_bomb - 3500
+L 09/03/2013 - 07:40:23: server_cvar: "cash_team_win_by_defusing_bomb" "3250"
+cash_team_win_by_defusing_bomb - 3250
+L 09/03/2013 - 07:40:23: server_cvar: "cash_team_win_by_hostage_rescue" "3500"
+cash_team_win_by_hostage_rescue - 3500
+cash_team_win_by_time_running_out_bomb - 3250
+cash_team_win_by_time_running_out_hostage - 3250
+mp_afterroundmoney - 0
+mp_buytime - 90
+mp_buy_anywhere - 0
+=======
+L 09/05/2013 - 15:20:05: server_cvar: "cash_team_elimination_bomb_map" "3250"
+cash_team_elimination_bomb_map - 3250
+L 09/05/2013 - 15:20:05: server_cvar: "cash_team_elimination_hostage_map_t" "1000"
+cash_team_elimination_hostage_map_t - 1000
+L 09/05/2013 - 15:20:05: server_cvar: "cash_team_elimination_hostage_map_ct" "2000"
+cash_team_elimination_hostage_map_ct - 2000
+cash_team_hostage_alive - 0
+L 09/05/2013 - 15:20:05: server_cvar: "cash_team_hostage_interaction" "500"
+cash_team_hostage_interaction - 500
+L 09/05/2013 - 15:20:05: server_cvar: "cash_team_loser_bonus" "1400"
+cash_team_loser_bonus - 1400
+L 09/05/2013 - 15:20:05: server_cvar: "cash_team_loser_bonus_consecutive_rounds" "500"
+cash_team_loser_bonus_consecutive_rounds - 500
+L 09/05/2013 - 15:20:05: server_cvar: "cash_team_planted_bomb_but_defused" "800"
+cash_team_planted_bomb_but_defused - 800
+cash_team_rescued_hostage - 0
+L 09/05/2013 - 15:20:05: server_cvar: "cash_team_terrorist_win_bomb" "3500"
+cash_team_terrorist_win_bomb - 3500
+L 09/05/2013 - 15:20:05: server_cvar: "cash_team_win_by_defusing_bomb" "3250"
+cash_team_win_by_defusing_bomb - 3250
+L 09/05/2013 - 15:20:05: server_cvar: "cash_team_win_by_hostage_rescue" "3500"
+cash_team_win_by_hostage_rescue - 3500
+L 09/05/2013 - 15:20:05: server_cvar: "cash_team_win_by_time_running_out_bomb" "3250"
+cash_team_win_by_time_running_out_bomb - 3250
+L 09/05/2013 - 15:20:05: server_cvar: "cash_team_win_by_time_running_out_hostage" "3250"
+cash_team_win_by_time_running_out_hostage - 3250
+mp_afterroundmoney - 0
+mp_buytime - 90
+L 09/05/2013 - 15:20:05: server_cvar: "mp_buy_anywhere" "0"
+mp_buy_anywhere - 0
+L 09/05/2013 - 15:20:05: server_cvar: "mp_buy_during_immunity" "0"
+>>>>>>> a50f1e7885c71edd1cf8cf2d72733bfee233e3df
+mp_buy_during_immunity - 0
+mp_startmoney - 800
+mp_maxmoney - 16000
+mp_death_drop_defuser - 1
+mp_death_drop_grenade - 2
+mp_death_drop_gun - 1
+mp_deathcam_skippable - 1
+mp_defuser_allocation - 0
+mp_give_player_c4 - 1
+mp_free_armor - 0
+mp_molotovusedelay - 15.0
+mp_weapons_allow_zeus - 1
+mp_weapons_allow_map_placed - 0
+mp_weapons_glow_on_ground - 0
+mp_ct_default_melee - weapon_knife
+mp_ct_default_secondary - weapon_hkp2000
+mp_ct_default_primary - 
+mp_ct_default_grenades - 
+mp_t_default_melee - weapon_knife
+mp_t_default_secondary - weapon_glock
+mp_t_default_primary - 
+mp_t_default_grenades - 
+mp_buy_allow_grenades - 1
+<<<<<<< HEAD
+L 09/03/2013 - 07:40:23: server_cvar: "mp_freezetime" "6"
+=======
+L 09/05/2013 - 15:20:05: server_cvar: "mp_freezetime" "6"
+>>>>>>> a50f1e7885c71edd1cf8cf2d72733bfee233e3df
+mp_freezetime - 6
+mp_force_pick_time - 15
+mp_halftime - 0
+mp_match_can_clinch - 1
+<<<<<<< HEAD
+L 09/03/2013 - 07:40:23: server_cvar: "mp_maxrounds" "0"
+mp_maxrounds - 0
+L 09/03/2013 - 07:40:23: server_cvar: "mp_roundtime" "5"
+mp_roundtime - 5
+L 09/03/2013 - 07:40:23: server_cvar: "mp_roundtime_defuse" "0"
+mp_roundtime_defuse - 0
+L 09/03/2013 - 07:40:23: server_cvar: "mp_roundtime_hostage" "0"
+mp_roundtime_hostage - 0
+L 09/03/2013 - 07:40:23: server_cvar: "mp_timelimit" "5"
+=======
+mp_maxrounds - 0
+L 09/05/2013 - 15:20:05: server_cvar: "mp_roundtime" "5"
+mp_roundtime - 5
+mp_roundtime_defuse - 0
+mp_roundtime_hostage - 0
+L 09/05/2013 - 15:20:05: server_cvar: "mp_timelimit" "5"
+>>>>>>> a50f1e7885c71edd1cf8cf2d72733bfee233e3df
+mp_timelimit - 5
+mp_warmuptime - 30
+mp_warmup_pausetimer - 0
+mp_halftime_pausetimer - 0
+mp_default_team_winner_no_objective - -1
+mp_hostagepenalty - 10
+mp_solid_teammates - 1
+sv_allow_votes - 1
+<<<<<<< HEAD
+sv_alltalk - 0
+L 09/03/2013 - 07:40:23: server_cvar: "sv_deadtalk" "0"
+=======
+L 09/05/2013 - 15:20:05: server_cvar: "sv_alltalk" "0"
+sv_alltalk - 0
+L 09/05/2013 - 15:20:05: server_cvar: "sv_deadtalk" "0"
+>>>>>>> a50f1e7885c71edd1cf8cf2d72733bfee233e3df
+sv_deadtalk - 0
+sv_ignoregrenaderadio - 0
+mp_teammates_are_enemies - 0
+mp_damage_scale_ct_body - 1.0
+mp_damage_scale_ct_head - 1.0
+mp_damage_scale_t_body - 1.0
+mp_damage_scale_t_head - 1.0
+<<<<<<< HEAD
+L 09/03/2013 - 07:40:23: server_cvar: "mp_friendlyfire" "0"
+=======
+L 09/05/2013 - 15:20:05: server_cvar: "mp_friendlyfire" "0"
+>>>>>>> a50f1e7885c71edd1cf8cf2d72733bfee233e3df
+mp_friendlyfire - 0
+ff_damage_reduction_bullets - 0.1
+ff_damage_reduction_grenade - 0.25
+ff_damage_reduction_grenade_self - 1
+ff_damage_reduction_other - 0.25
+<<<<<<< HEAD
+L 09/03/2013 - 07:40:23: server_cvar: "mp_limitteams" "2"
+=======
+L 09/05/2013 - 15:20:05: server_cvar: "mp_limitteams" "2"
+>>>>>>> a50f1e7885c71edd1cf8cf2d72733bfee233e3df
+mp_limitteams - 2
+spec_freeze_panel_extended_time - 0.0
+spec_freeze_time - 5.0
+mp_forcecamera - 1
+mp_respawn_immunitytime - 4.0
+mp_respawn_on_death_t - 0
+mp_respawn_on_death_ct - 0
+mp_display_kill_assists - 1
+mp_use_respawn_waves - 0
+mp_respawnwavetime_ct - 10.0
+mp_respawnwavetime_t - 10.0
+mp_randomspawn - 0
+mp_randomspawn_los - 1
+mp_radar_showall - 0
+sv_gravity - 800
+sv_accelerate - 5.6
+sv_stopspeed - 75
+sv_airaccelerate - 10
+sv_wateraccelerate - 10
+sv_waterfriction - 1
+sv_friction - 4.8
+sv_bounce - 0
+sv_maxvelocity - 3500
+sv_maxspeed - 320
+mp_ggprogressive_round_restart_delay - 15.0
+mp_ggtr_bomb_defuse_bonus - 1.0
+mp_ggtr_bomb_detonation_bonus - 1.0
+mp_ggtr_bomb_pts_for_flash - 4
+mp_ggtr_bomb_pts_for_he - 3
+mp_ggtr_bomb_pts_for_molotov - 5
+mp_ggtr_bomb_pts_for_upgrade - 2.0
+mp_ggtr_bomb_respawn_delay - 0.0
+mp_ggtr_end_round_kill_bonus - 1
+mp_ggtr_halftime_delay - 0.0
+mp_ggtr_last_weapon_kill_ends_half - 0
+sv_arms_race_vote_to_restart_disallowed_after - 0
+Executing dedicated server config file
+<<<<<<< HEAD
+L 09/03/2013 - 07:40:23: server_cvar: "nextlevel" ""
+Server logging enabled.
+L 09/03/2013 - 07:40:23: server_cvar: "mp_freezetime" "0"
+L 09/03/2013 - 07:40:23: server_cvar: "mp_limitteams" "0"
+maxplayers set to 64
+L 09/03/2013 - 07:40:23: server_cvar: "cash_player_interact_with_hostage" "300"
+L 09/03/2013 - 07:40:23: server_cvar: "cash_team_elimination_hostage_map_t" "3000"
+L 09/03/2013 - 07:40:23: server_cvar: "cash_team_elimination_hostage_map_ct" "3000"
+L 09/03/2013 - 07:40:23: server_cvar: "cash_team_hostage_interaction" "600"
+L 09/03/2013 - 07:40:23: server_cvar: "cash_team_rescued_hostage" "600"
+L 09/03/2013 - 07:40:23: server_cvar: "cash_team_win_by_defusing_bomb" "3500"
+L 09/03/2013 - 07:40:23: server_cvar: "cash_team_win_by_hostage_rescue" "2900"
+Unknown command "mp_deathcam_skippable"
+L 09/03/2013 - 07:40:23: server_cvar: "mp_freezetime" "15"
+L 09/03/2013 - 07:40:23: server_cvar: "mp_friendlyfire" "1"
+L 09/03/2013 - 07:40:23: server_cvar: "mp_maxrounds" "30"
+L 09/03/2013 - 07:40:23: server_cvar: "mp_roundtime" "2"
+L 09/03/2013 - 07:40:23: server_cvar: "mp_roundtime_hostage" "2"
+L 09/03/2013 - 07:40:23: server_cvar: "mp_roundtime_defuse" "2"
+L 09/03/2013 - 07:40:23: server_cvar: "mp_timelimit" "0"
+L 09/03/2013 - 07:40:23: server_cvar: "sv_deadtalk" "1"
+exec: couldn't exec gamemode_competitive_server.cfg
+Commentary: Could not find commentary data file 'maps/ar_baggage_commentary.txt'. 
+=======
+L 09/05/2013 - 15:20:05: server_cvar: "nextlevel" ""
+Server logging enabled.
+L 09/05/2013 - 15:20:05: server_cvar: "mp_freezetime" "0"
+L 09/05/2013 - 15:20:05: server_cvar: "mp_limitteams" "0"
+maxplayers set to 64
+L 09/05/2013 - 15:20:05: server_cvar: "cash_player_bomb_defused" "0"
+L 09/05/2013 - 15:20:05: server_cvar: "cash_player_bomb_planted" "0"
+L 09/05/2013 - 15:20:05: server_cvar: "cash_player_damage_hostage" "0"
+L 09/05/2013 - 15:20:05: server_cvar: "cash_player_interact_with_hostage" "0"
+L 09/05/2013 - 15:20:05: server_cvar: "cash_player_killed_enemy_default" "0"
+L 09/05/2013 - 15:20:05: server_cvar: "cash_player_killed_enemy_factor" "0"
+L 09/05/2013 - 15:20:05: server_cvar: "cash_player_killed_hostage" "0"
+L 09/05/2013 - 15:20:05: server_cvar: "cash_player_killed_teammate" "0"
+L 09/05/2013 - 15:20:05: server_cvar: "cash_player_rescued_hostage" "0"
+L 09/05/2013 - 15:20:05: server_cvar: "cash_team_elimination_bomb_map" "0"
+L 09/05/2013 - 15:20:05: server_cvar: "cash_team_elimination_hostage_map_t" "0"
+L 09/05/2013 - 15:20:05: server_cvar: "cash_team_elimination_hostage_map_ct" "0"
+L 09/05/2013 - 15:20:05: server_cvar: "cash_team_hostage_interaction" "0"
+L 09/05/2013 - 15:20:05: server_cvar: "cash_team_loser_bonus" "0"
+L 09/05/2013 - 15:20:05: server_cvar: "cash_team_loser_bonus_consecutive_rounds" "0"
+L 09/05/2013 - 15:20:05: server_cvar: "cash_team_planted_bomb_but_defused" "0"
+L 09/05/2013 - 15:20:05: server_cvar: "cash_team_terrorist_win_bomb" "0"
+L 09/05/2013 - 15:20:05: server_cvar: "cash_team_win_by_defusing_bomb" "0"
+L 09/05/2013 - 15:20:05: server_cvar: "cash_team_win_by_hostage_rescue" "0"
+L 09/05/2013 - 15:20:05: server_cvar: "cash_team_win_by_time_running_out_bomb" "0"
+L 09/05/2013 - 15:20:05: server_cvar: "cash_team_win_by_time_running_out_hostage" "0"
+L 09/05/2013 - 15:20:05: server_cvar: "mp_buy_anywhere" "1"
+L 09/05/2013 - 15:20:05: server_cvar: "mp_buy_during_immunity" "1"
+Unknown command "mp_deathcam_skippable"
+L 09/05/2013 - 15:20:05: server_cvar: "mp_friendlyfire" "1"
+L 09/05/2013 - 15:20:05: server_cvar: "mp_roundtime" "10"
+L 09/05/2013 - 15:20:05: server_cvar: "mp_timelimit" "10"
+L 09/05/2013 - 15:20:05: server_cvar: "sv_alltalk" "1"
+L 09/05/2013 - 15:20:05: server_cvar: "sv_deadtalk" "1"
+exec: couldn't exec gamemode_deathmatch_server.cfg
+Commentary: Could not find commentary data file 'maps/ar_shoots_commentary.txt'. 
+>>>>>>> a50f1e7885c71edd1cf8cf2d72733bfee233e3df
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+<<<<<<< HEAD
+PutClientInServer: no info_player_start on level
+L 09/03/2013 - 07:40:23: "Battle Pro Beta TV GOTV<2><BOT><>" entered the game
+GOTV broadcast active.
+Server waking up from hibernation
+L 09/03/2013 - 07:40:23: "Dijkstra<3><STEAM_1:0:54679011><>" connected, address "190.15.199.82:51553"
+Client "Dijkstra" connected (190.15.199.82:51553).
+L 09/03/2013 - 07:40:23: World triggered "Round_Start"
+L 09/03/2013 - 07:40:24: "Dijkstra<3><STEAM_1:0:54679011><>" STEAM USERID validated
+L 09/03/2013 - 07:40:48: "Drahtz<4><STEAM_1:0:42575687><>" connected, address "190.15.199.82:51489"
+Client "Drahtz" connected (190.15.199.82:51489).
+L 09/03/2013 - 07:40:49: "Drahtz<4><STEAM_1:0:42575687><>" STEAM USERID validated
+PutClientInServer: no info_player_start on level
+L 09/03/2013 - 07:40:49: "Dijkstra<3><STEAM_1:0:54679011><>" entered the game
+CreateFragmentsFromFile: 'downloads/1ab72a88.dat' doesn't exist.
+L 09/03/2013 - 07:40:55: "Dijkstra<3><STEAM_1:0:54679011><Unassigned>" triggered "clantag" (value "")
+L 09/03/2013 - 07:41:01: "Dijkstra<3><STEAM_1:0:54679011>" switched from team <Unassigned> to <CT>
+L 09/03/2013 - 07:41:01: "Dijkstra<3><STEAM_1:0:54679011><CT>" triggered "clantag" (value "")
+mdlcache.cpp(1917): MDL Cache allocation outside the pool. player/ct_animations.mdl : 32776.
+Game will not start until both teams have players.
+PutClientInServer: no info_player_start on level
+L 09/03/2013 - 07:41:16: "Drahtz<4><STEAM_1:0:42575687><>" entered the game
+CreateFragmentsFromFile: 'downloads/1ab72a88.dat' doesn't exist.
+CreateFragmentsFromFile: 'downloads/1ab72a88.dat' doesn't exist.
+CreateFragmentsFromFile: 'downloads/1ab72a88.dat' doesn't exist.
+L 09/03/2013 - 07:41:21: "Drahtz<4><STEAM_1:0:42575687><Unassigned>" triggered "clantag" (value "")
+L 09/03/2013 - 07:41:25: "Drahtz<4><STEAM_1:0:42575687>" switched from team <Unassigned> to <TERRORIST>
+L 09/03/2013 - 07:41:25: "Drahtz<4><STEAM_1:0:42575687><TERRORIST>" triggered "clantag" (value "")
+Game will not start until both teams have players.
+L 09/03/2013 - 07:41:33: "Dijkstra<3><STEAM_1:0:54679011><CT>" [-108 666 64] killed "Drahtz<4><STEAM_1:0:42575687><TERRORIST>" [128 671 128] with "hkp2000"
+L 09/03/2013 - 07:41:58: "Drahtz<4><STEAM_1:0:42575687><TERRORIST>" [27 -207 32] killed "Dijkstra<3><STEAM_1:0:54679011><CT>" [40 -178 96] with "knife_default_t"
+L 09/03/2013 - 07:42:36: "Dijkstra<3><STEAM_1:0:54679011><CT>" [183 -575 64] killed "Drahtz<4><STEAM_1:0:42575687><TERRORIST>" [177 -557 128] with "knife_default_ct"
+L 09/03/2013 - 07:42:36: World triggered "Game_Commencing"
+L 09/03/2013 - 07:42:52: World triggered "Round_Start"
+L 09/03/2013 - 07:43:11: "Dijkstra<3><STEAM_1:0:54679011><CT>" [-299 -33 160] killed "Drahtz<4><STEAM_1:0:42575687><TERRORIST>" [-325 218 194] with "hkp2000" (headshot)
+L 09/03/2013 - 07:43:11: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "1") (T "0")
+L 09/03/2013 - 07:43:11: Team "CT" scored "1" with "1" players
+L 09/03/2013 - 07:43:11: Team "TERRORIST" scored "0" with "1" players
+L 09/03/2013 - 07:43:11: World triggered "Round_End"
+L 09/03/2013 - 07:43:36: World triggered "Round_Start"
+L 09/03/2013 - 07:43:53: "Drahtz<4><STEAM_1:0:42575687><TERRORIST>" [-303 128 160] killed "Dijkstra<3><STEAM_1:0:54679011><CT>" [-168 5 96] with "glock" (headshot)
+L 09/03/2013 - 07:43:53: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "1") (T "1")
+L 09/03/2013 - 07:43:53: Team "CT" scored "1" with "1" players
+L 09/03/2013 - 07:43:53: Team "TERRORIST" scored "1" with "1" players
+L 09/03/2013 - 07:43:53: World triggered "Round_End"
+L 09/03/2013 - 07:44:18: World triggered "Round_Start"
+L 09/03/2013 - 07:44:34: "Dijkstra<3><STEAM_1:0:54679011><CT>" [4 -272 41] killed "Drahtz<4><STEAM_1:0:42575687><TERRORIST>" [-291 -6 216] with "hkp2000" (headshot)
+L 09/03/2013 - 07:44:34: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "2") (T "1")
+L 09/03/2013 - 07:44:34: Team "CT" scored "2" with "1" players
+L 09/03/2013 - 07:44:34: Team "TERRORIST" scored "1" with "1" players
+L 09/03/2013 - 07:44:34: World triggered "Round_End"
+L 09/03/2013 - 07:44:59: World triggered "Round_Start"
+L 09/03/2013 - 07:45:13: "Drahtz<4><STEAM_1:0:42575687><TERRORIST>" [7 -272 41] killed "Dijkstra<3><STEAM_1:0:54679011><CT>" [39 -251 100] with "knife_default_t"
+L 09/03/2013 - 07:45:13: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "2") (T "2")
+L 09/03/2013 - 07:45:13: Team "CT" scored "2" with "1" players
+L 09/03/2013 - 07:45:13: Team "TERRORIST" scored "2" with "1" players
+L 09/03/2013 - 07:45:13: World triggered "Round_End"
+L 09/03/2013 - 07:45:38: World triggered "Round_Start"
+L 09/03/2013 - 07:46:00: "Dijkstra<3><STEAM_1:0:54679011><CT>" [-45 -109 32] killed "Drahtz<4><STEAM_1:0:42575687><TERRORIST>" [-19 -212 96] with "hkp2000" (headshot)
+L 09/03/2013 - 07:46:00: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "3") (T "2")
+L 09/03/2013 - 07:46:00: Team "CT" scored "3" with "1" players
+L 09/03/2013 - 07:46:00: Team "TERRORIST" scored "2" with "1" players
+L 09/03/2013 - 07:46:00: World triggered "Round_End"
+L 09/03/2013 - 07:46:25: World triggered "Round_Start"
+L 09/03/2013 - 07:46:45: "Drahtz<4><STEAM_1:0:42575687><TERRORIST>" [43 -233 32] killed "Dijkstra<3><STEAM_1:0:54679011><CT>" [45 -84 96] with "glock" (headshot)
+L 09/03/2013 - 07:46:45: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "3") (T "3")
+L 09/03/2013 - 07:46:45: Team "CT" scored "3" with "1" players
+L 09/03/2013 - 07:46:45: Team "TERRORIST" scored "3" with "1" players
+L 09/03/2013 - 07:46:45: World triggered "Round_End"
+L 09/03/2013 - 07:47:10: World triggered "Round_Start"
+L 09/03/2013 - 07:47:27: "Dijkstra<3><STEAM_1:0:54679011><CT>" [-99 71 32] killed "Drahtz<4><STEAM_1:0:42575687><TERRORIST>" [96 194 96] with "hkp2000" (headshot)
+L 09/03/2013 - 07:47:27: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "4") (T "3")
+L 09/03/2013 - 07:47:27: Team "CT" scored "4" with "1" players
+L 09/03/2013 - 07:47:27: Team "TERRORIST" scored "3" with "1" players
+L 09/03/2013 - 07:47:27: World triggered "Round_End"
+L 09/03/2013 - 07:47:52: World triggered "Round_Start"
+L 09/03/2013 - 07:48:02: "Drahtz<4><STEAM_1:0:42575687><TERRORIST>" [117 56 32] killed "Dijkstra<3><STEAM_1:0:54679011><CT>" [99 -108 96] with "glock" (headshot)
+L 09/03/2013 - 07:48:02: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "4") (T "4")
+L 09/03/2013 - 07:48:02: Team "CT" scored "4" with "1" players
+L 09/03/2013 - 07:48:02: Team "TERRORIST" scored "4" with "1" players
+L 09/03/2013 - 07:48:02: World triggered "Round_End"
+L 09/03/2013 - 07:48:27: World triggered "Round_Start"
+L 09/03/2013 - 07:48:41: "Dijkstra<3><STEAM_1:0:54679011><CT>" [233 93 -176] killed "Drahtz<4><STEAM_1:0:42575687><TERRORIST>" [201 85 -112] with "knife_default_ct"
+L 09/03/2013 - 07:48:41: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "5") (T "4")
+L 09/03/2013 - 07:48:41: Team "CT" scored "5" with "1" players
+L 09/03/2013 - 07:48:41: Team "TERRORIST" scored "4" with "1" players
+L 09/03/2013 - 07:48:41: World triggered "Round_End"
+L 09/03/2013 - 07:49:06: World triggered "Round_Start"
+L 09/03/2013 - 07:49:23: "Drahtz<4><STEAM_1:0:42575687><TERRORIST>" [43 -356 61] killed "Dijkstra<3><STEAM_1:0:54679011><CT>" [141 -144 96] with "glock" (headshot)
+L 09/03/2013 - 07:49:23: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "5") (T "5")
+L 09/03/2013 - 07:49:23: Team "CT" scored "5" with "1" players
+L 09/03/2013 - 07:49:23: Team "TERRORIST" scored "5" with "1" players
+L 09/03/2013 - 07:49:23: World triggered "Round_End"
+L 09/03/2013 - 07:49:48: World triggered "Round_Start"
+L 09/03/2013 - 07:49:58: "Dijkstra<3><STEAM_1:0:54679011><CT>" [117 -31 32] killed "Drahtz<4><STEAM_1:0:42575687><TERRORIST>" [102 64 96] with "hkp2000"
+L 09/03/2013 - 07:49:58: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "6") (T "5")
+L 09/03/2013 - 07:49:58: Team "CT" scored "6" with "1" players
+L 09/03/2013 - 07:49:58: Team "TERRORIST" scored "5" with "1" players
+L 09/03/2013 - 07:49:58: World triggered "Round_End"
+L 09/03/2013 - 07:50:23: World triggered "Round_Start"
+L 09/03/2013 - 07:50:35: "Drahtz<4><STEAM_1:0:42575687><TERRORIST>" [184 44 31] killed "Dijkstra<3><STEAM_1:0:54679011><CT>" [216 68 86] with "knife_default_t"
+L 09/03/2013 - 07:50:35: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "6") (T "6")
+L 09/03/2013 - 07:50:35: Team "CT" scored "6" with "1" players
+L 09/03/2013 - 07:50:35: Team "TERRORIST" scored "6" with "1" players
+L 09/03/2013 - 07:50:35: World triggered "Round_End"
+L 09/03/2013 - 07:51:00: World triggered "Round_Start"
+L 09/03/2013 - 07:51:10: "Dijkstra<3><STEAM_1:0:54679011><CT>" [81 -179 32] killed "Drahtz<4><STEAM_1:0:42575687><TERRORIST>" [119 106 96] with "hkp2000"
+L 09/03/2013 - 07:51:10: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "7") (T "6")
+L 09/03/2013 - 07:51:10: Team "CT" scored "7" with "1" players
+L 09/03/2013 - 07:51:10: Team "TERRORIST" scored "6" with "1" players
+L 09/03/2013 - 07:51:10: World triggered "Round_End"
+L 09/03/2013 - 07:51:35: World triggered "Round_Start"
+L 09/03/2013 - 07:51:45: "Drahtz<4><STEAM_1:0:42575687><TERRORIST>" [116 -357 62] killed "Dijkstra<3><STEAM_1:0:54679011><CT>" [102 -389 128] with "knife_default_t"
+L 09/03/2013 - 07:51:45: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "7") (T "7")
+L 09/03/2013 - 07:51:45: Team "CT" scored "7" with "1" players
+L 09/03/2013 - 07:51:45: Team "TERRORIST" scored "7" with "1" players
+L 09/03/2013 - 07:51:45: World triggered "Round_End"
+L 09/03/2013 - 07:52:10: World triggered "Round_Start"
+L 09/03/2013 - 07:52:21: "Dijkstra<3><STEAM_1:0:54679011><CT>" [89 -146 32] killed "Drahtz<4><STEAM_1:0:42575687><TERRORIST>" [99 -114 96] with "hkp2000" (headshot)
+L 09/03/2013 - 07:52:21: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "8") (T "7")
+L 09/03/2013 - 07:52:21: Team "CT" scored "8" with "1" players
+L 09/03/2013 - 07:52:21: Team "TERRORIST" scored "7" with "1" players
+L 09/03/2013 - 07:52:21: World triggered "Round_End"
+L 09/03/2013 - 07:53:11: "Dijkstra<3><STEAM_1:0:54679011>" switched from team <CT> to <TERRORIST>
+L 09/03/2013 - 07:53:11: "Drahtz<4><STEAM_1:0:42575687>" switched from team <TERRORIST> to <CT>
+L 09/03/2013 - 07:53:11: "Drahtz<4><STEAM_1:0:42575687><CT>" triggered "clantag" (value "")
+L 09/03/2013 - 07:53:11: "Dijkstra<3><STEAM_1:0:54679011><TERRORIST>" triggered "clantag" (value "")
+L 09/03/2013 - 07:53:26: World triggered "Round_Start"
+L 09/03/2013 - 07:53:39: "Drahtz<4><STEAM_1:0:42575687><CT>" [-102 164 32] killed "Dijkstra<3><STEAM_1:0:54679011><TERRORIST>" [-107 196 96] with "knife_default_ct"
+L 09/03/2013 - 07:53:39: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "8") (T "8")
+L 09/03/2013 - 07:53:39: Team "CT" scored "8" with "1" players
+L 09/03/2013 - 07:53:39: Team "TERRORIST" scored "8" with "1" players
+L 09/03/2013 - 07:53:39: World triggered "Round_End"
+L 09/03/2013 - 07:54:04: World triggered "Round_Start"
+L 09/03/2013 - 07:54:16: "Dijkstra<3><STEAM_1:0:54679011><TERRORIST>" [-106 186 32] killed "Drahtz<4><STEAM_1:0:42575687><CT>" [-121 -61 96] with "glock" (headshot)
+L 09/03/2013 - 07:54:16: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "8") (T "9")
+L 09/03/2013 - 07:54:16: Team "CT" scored "8" with "1" players
+L 09/03/2013 - 07:54:16: Team "TERRORIST" scored "9" with "1" players
+L 09/03/2013 - 07:54:16: World triggered "Round_End"
+L 09/03/2013 - 07:54:41: World triggered "Round_Start"
+L 09/03/2013 - 07:54:50: "Drahtz<4><STEAM_1:0:42575687><CT>" [-115 44 32] killed "Dijkstra<3><STEAM_1:0:54679011><TERRORIST>" [-102 76 96] with "knife_default_ct"
+L 09/03/2013 - 07:54:50: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "9") (T "9")
+L 09/03/2013 - 07:54:50: Team "CT" scored "9" with "1" players
+L 09/03/2013 - 07:54:50: Team "TERRORIST" scored "9" with "1" players
+L 09/03/2013 - 07:54:50: World triggered "Round_End"
+L 09/03/2013 - 07:55:15: World triggered "Round_Start"
+L 09/03/2013 - 07:55:31: "Drahtz<4><STEAM_1:0:42575687><CT>" [326 1091 65] killed "Dijkstra<3><STEAM_1:0:54679011><TERRORIST>" [358 1108 129] with "knife_default_ct"
+L 09/03/2013 - 07:55:31: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "10") (T "9")
+L 09/03/2013 - 07:55:31: Team "CT" scored "10" with "1" players
+L 09/03/2013 - 07:55:31: Team "TERRORIST" scored "9" with "1" players
+L 09/03/2013 - 07:55:31: World triggered "Round_End"
+L 09/03/2013 - 07:55:56: World triggered "Round_Start"
+L 09/03/2013 - 07:56:18: "Drahtz<4><STEAM_1:0:42575687><CT>" [-12 -544 -176] killed "Dijkstra<3><STEAM_1:0:54679011><TERRORIST>" [-32 -576 -112] with "knife_default_ct"
+L 09/03/2013 - 07:56:18: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "11") (T "9")
+L 09/03/2013 - 07:56:18: Team "CT" scored "11" with "1" players
+L 09/03/2013 - 07:56:18: Team "TERRORIST" scored "9" with "1" players
+L 09/03/2013 - 07:56:18: World triggered "Round_End"
+=======
+L 09/05/2013 - 15:20:05: "GOTV<26><BOT><>" connected, address "none"
+PutClientInServer: no info_player_start on level
+L 09/05/2013 - 15:20:05: "GOTV<26><BOT><>" entered the game
+L 09/05/2013 - 15:20:05: "GOTV<26><BOT><Unassigned>" changed name to "Battle Pro Beta TV GOTV"
+L 09/05/2013 - 15:20:05: World triggered "Round_Start"
+GOTV broadcast active.
+L 09/05/2013 - 15:20:06: "Cuchillin<27><STEAM_1:1:56695116><>" connected, address "186.59.10.27:14018"
+Client "Cuchillin" connected (186.59.10.27:14018).
+L 09/05/2013 - 15:20:06: "Cuchillin<27><STEAM_1:1:56695116><>" STEAM USERID validated
+L 09/05/2013 - 15:20:13: "Cuchillin<27><STEAM_1:1:56695116><>" entered the game
+Giving up attempts to make more random spawn points. Current count: 22.
+CreateFragmentsFromFile: 'downloads/1ab72a88.dat' doesn't exist.
+L 09/05/2013 - 15:20:16: "Cuchillin<27><STEAM_1:1:56695116><Unassigned>" triggered "clantag" (value "")
+L 09/05/2013 - 15:20:27: "Cuchillin<27><STEAM_1:1:56695116>" switched from team <Unassigned> to <CT>
+L 09/05/2013 - 15:20:27: "cmarrero01<28><STEAM_1:1:56372835><>" connected, address "186.59.10.27:14091"
+Client "cmarrero01" connected (186.59.10.27:14091).
+L 09/05/2013 - 15:20:27: "Cuchillin<27><STEAM_1:1:56695116><CT>" triggered "clantag" (value "")
+Game will not start until both teams have players.
+L 09/05/2013 - 15:20:27: "cmarrero01<28><STEAM_1:1:56372835><>" STEAM USERID validated
+CreateFragmentsFromFile: 'downloads/1ab72a88.dat' doesn't exist.
+L 09/05/2013 - 15:21:01: "cmarrero01<28><STEAM_1:1:56372835><>" entered the game
+CreateFragmentsFromFile: 'downloads/1ab72a88.dat' doesn't exist.
+CreateFragmentsFromFile: 'downloads/1ab72a88.dat' doesn't exist.
+L 09/05/2013 - 15:21:07: "cmarrero01<28><STEAM_1:1:56372835><Unassigned>" triggered "clantag" (value "")
+L 09/05/2013 - 15:21:21: "cmarrero01<28><STEAM_1:1:56372835>" switched from team <Unassigned> to <TERRORIST>
+L 09/05/2013 - 15:21:21: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" triggered "clantag" (value "")
+L 09/05/2013 - 15:21:21: World triggered "Game_Commencing"
+L 09/05/2013 - 15:21:22: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "nova"
+L 09/05/2013 - 15:21:22: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "tec9"
+L 09/05/2013 - 15:21:22: World triggered "Round_Start"
+L 09/05/2013 - 15:21:25: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "awp"
+L 09/05/2013 - 15:21:45: "Cuchillin<27><STEAM_1:1:56695116><CT>" [137 944 129] killed "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" [-221 1356 68] with "hkp2000" (headshot)
+L 09/05/2013 - 15:21:49: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "mp7"
+L 09/05/2013 - 15:21:49: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "elite"
+L 09/05/2013 - 15:22:10: "Cuchillin<27><STEAM_1:1:56695116><CT>" [802 371 128] killed "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" [872 -402 241] with "hkp2000" (headshot)
+L 09/05/2013 - 15:22:13: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "g3sg1"
+L 09/05/2013 - 15:22:13: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "deagle"
+L 09/05/2013 - 15:22:29: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" [64 909 128] killed "Cuchillin<27><STEAM_1:1:56695116><CT>" [-49 1232 103] with "g3sg1"
+L 09/05/2013 - 15:22:35: "Cuchillin<27><STEAM_1:1:56695116><CT>" purchased "m4a1"
+L 09/05/2013 - 15:22:44: "Cuchillin<27><STEAM_1:1:56695116><CT>" [-144 427 128] killed "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" [-82 294 192] with "m4a1" (headshot)
+L 09/05/2013 - 15:22:46: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "galilar"
+L 09/05/2013 - 15:22:46: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "glock"
+L 09/05/2013 - 15:22:56: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "sg556"
+L 09/05/2013 - 15:22:59: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" [-400 -200 0] killed "Cuchillin<27><STEAM_1:1:56695116><CT>" [156 266 282] with "sg556"
+L 09/05/2013 - 15:23:02: "Cuchillin<27><STEAM_1:1:56695116><CT>" purchased "m4a1"
+L 09/05/2013 - 15:23:16: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" [-467 925 128] killed "Cuchillin<27><STEAM_1:1:56695116><CT>" [128 992 175] with "sg556"
+L 09/05/2013 - 15:23:20: "Cuchillin<27><STEAM_1:1:56695116><CT>" purchased "m4a1"
+L 09/05/2013 - 15:23:33: "Cuchillin<27><STEAM_1:1:56695116><CT>" [-85 363 128] killed "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" [34 159 174] with "m4a1"
+L 09/05/2013 - 15:23:35: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "sawedoff"
+L 09/05/2013 - 15:23:35: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "tec9"
+L 09/05/2013 - 15:23:41: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "sg556"
+L 09/05/2013 - 15:23:54: "Cuchillin<27><STEAM_1:1:56695116><CT>" [575 -336 59] killed "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" [530 -445 135] with "m4a1" (headshot)
+L 09/05/2013 - 15:23:58: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "ak47"
+L 09/05/2013 - 15:23:58: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "deagle"
+L 09/05/2013 - 15:24:03: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "sg556"
+L 09/05/2013 - 15:24:57: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" [644 -199 2] killed "Cuchillin<27><STEAM_1:1:56695116><CT>" [277 196 193] with "sg556"
+L 09/05/2013 - 15:25:00: "Cuchillin<27><STEAM_1:1:56695116><CT>" purchased "m4a1"
+L 09/05/2013 - 15:25:12: "Cuchillin<27><STEAM_1:1:56695116><CT>" [951 1119 7] killed "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" [938 1544 64] with "m4a1"
+L 09/05/2013 - 15:25:16: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "galilar"
+L 09/05/2013 - 15:25:16: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "glock"
+L 09/05/2013 - 15:25:18: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "awp"
+L 09/05/2013 - 15:25:59: "Cuchillin<27><STEAM_1:1:56695116><CT>" [984 -303 4] killed "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" [964 -449 55] with "m4a1"
+L 09/05/2013 - 15:26:03: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "ak47"
+L 09/05/2013 - 15:26:03: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "deagle"
+L 09/05/2013 - 15:26:05: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "awp"
+L 09/05/2013 - 15:26:25: "Cuchillin<27><STEAM_1:1:56695116><CT>" [92 1146 2] killed "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" [204 1167 64] with "m4a1"
+L 09/05/2013 - 15:26:28: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "ump45"
+L 09/05/2013 - 15:26:28: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "p250"
+L 09/05/2013 - 15:26:31: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "awp"
+L 09/05/2013 - 15:26:40: "Cuchillin<27><STEAM_1:1:56695116><CT>" [49 -228 0] killed "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" [797 -207 46] with "m4a1" (headshot)
+L 09/05/2013 - 15:26:42: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "ak47"
+L 09/05/2013 - 15:26:42: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "tec9"
+L 09/05/2013 - 15:26:44: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "awp"
+L 09/05/2013 - 15:26:47: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" [938 175 0] killed "Cuchillin<27><STEAM_1:1:56695116><CT>" [443 272 192] with "awp"
+L 09/05/2013 - 15:26:50: "Cuchillin<27><STEAM_1:1:56695116><CT>" purchased "m4a1"
+L 09/05/2013 - 15:26:56: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" [961 -230 1] killed "Cuchillin<27><STEAM_1:1:56695116><CT>" [929 -215 47] with "awp"
+L 09/05/2013 - 15:27:00: "Cuchillin<27><STEAM_1:1:56695116><CT>" purchased "m4a1"
+L 09/05/2013 - 15:27:29: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" [986 -191 1] killed "Cuchillin<27><STEAM_1:1:56695116><CT>" [-153 -354 65] with "awp"
+L 09/05/2013 - 15:27:32: "Cuchillin<27><STEAM_1:1:56695116><CT>" purchased "m4a1"
+L 09/05/2013 - 15:27:43: "Cuchillin<27><STEAM_1:1:56695116><CT>" [677 -90 3] killed "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" [986 -254 48] with "m4a1" (headshot)
+L 09/05/2013 - 15:27:47: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "g3sg1"
+L 09/05/2013 - 15:27:47: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "p250"
+L 09/05/2013 - 15:27:48: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "awp"
+L 09/05/2013 - 15:27:56: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" [947 -404 177] killed "Cuchillin<27><STEAM_1:1:56695116><CT>" [-105 831 294] with "awp"
+L 09/05/2013 - 15:27:59: "Cuchillin<27><STEAM_1:1:56695116><CT>" purchased "m4a1"
+L 09/05/2013 - 15:28:25: "Cuchillin<27><STEAM_1:1:56695116><CT>" [260 -230 0] killed "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" [691 -322 240] with "m4a1" (headshot)
+L 09/05/2013 - 15:28:28: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "bizon"
+L 09/05/2013 - 15:28:28: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "elite"
+L 09/05/2013 - 15:28:29: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "awp"
+L 09/05/2013 - 15:29:07: "Cuchillin<27><STEAM_1:1:56695116><CT>" [-818 -91 31] killed "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" [-768 -144 95] with "m4a1" (headshot)
+L 09/05/2013 - 15:29:11: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "p90"
+L 09/05/2013 - 15:29:11: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "p250"
+L 09/05/2013 - 15:29:12: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "awp"
+L 09/05/2013 - 15:29:35: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "sg556"
+L 09/05/2013 - 15:29:35: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "deagle"
+L 09/05/2013 - 15:29:35: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "m249"
+L 09/05/2013 - 15:29:38: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "awp"
+L 09/05/2013 - 15:29:44: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" [-874 1544 177] killed "Cuchillin<27><STEAM_1:1:56695116><CT>" [913 1590 64] with "awp"
+L 09/05/2013 - 15:29:47: "Cuchillin<27><STEAM_1:1:56695116><CT>" purchased "m4a1"
+L 09/05/2013 - 15:30:08: "Cuchillin<27><STEAM_1:1:56695116><CT>" [789 968 -0] killed "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" [-755 1476 241] with "m4a1"
+L 09/05/2013 - 15:30:11: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "awp"
+L 09/05/2013 - 15:30:11: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "p250"
+L 09/05/2013 - 15:30:24: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" [521 1506 2] killed "Cuchillin<27><STEAM_1:1:56695116><CT>" [-48 970 192] with "awp"
+L 09/05/2013 - 15:30:27: "Cuchillin<27><STEAM_1:1:56695116><CT>" purchased "m4a1"
+L 09/05/2013 - 15:30:33: "Cuchillin<27><STEAM_1:1:56695116><CT>" [-741 1472 177] killed "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" [-368 1587 193] with "m4a1" (headshot)
+L 09/05/2013 - 15:30:35: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "negev"
+L 09/05/2013 - 15:30:35: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "glock"
+L 09/05/2013 - 15:30:36: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "awp"
+L 09/05/2013 - 15:30:43: "Cuchillin<27><STEAM_1:1:56695116><CT>" [-958 1634 178] killed "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" [-909 846 66] with "m4a1" (headshot)
+L 09/05/2013 - 15:30:46: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "ak47"
+L 09/05/2013 - 15:30:46: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "elite"
+L 09/05/2013 - 15:30:49: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "awp"
+L 09/05/2013 - 15:31:03: "Cuchillin<27><STEAM_1:1:56695116><CT>" [-929 1574 177] killed "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" [-136 391 174] with "m4a1"
+L 09/05/2013 - 15:31:06: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "ump45"
+L 09/05/2013 - 15:31:06: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "tec9"
+L 09/05/2013 - 15:31:07: "cmarrero01<28><STEAM_1:1:56372835><TERRORIST>" purchased "awp"
+L 09/05/2013 - 15:31:22: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "0") (T "0")
+L 09/05/2013 - 15:31:22: Team "CT" scored "0" with "1" players
+L 09/05/2013 - 15:31:22: Team "TERRORIST" scored "0" with "1" players
+L 09/05/2013 - 15:31:22: World triggered "Round_End"
+L 09/05/2013 - 15:31:22: World triggered "Intermission_Time_Limit"
+Going to intermission...
+CHANGELEVEL: Looking for next level in mapgroup 'mg_bomb'
+Looking for next map in mapgroup 'mg_bomb'...
+CHANGELEVEL: Choosing map 'de_dust2' (previous was ar_shoots)
+>>>>>>> a50f1e7885c71edd1cf8cf2d72733bfee233e3df

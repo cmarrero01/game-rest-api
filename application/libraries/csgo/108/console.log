@@ -1,0 +1,640 @@
+﻿L 09/05/2013 - 12:37:35: "Dijkstra<16><STEAM_1:0:54679011><CT>" [-58 855 64] killed "Drahtz<17><STEAM_1:0:42575687><TERRORIST>" [-160 1216 128] with "hkp2000" (headshot)
+L 09/05/2013 - 12:37:35: [SM] Native "PrintToChat" reported: Client index 0 is invalid
+L 09/05/2013 - 12:37:35: [SM] Displaying call stack trace for plugin "bp.smx":
+L 09/05/2013 - 12:37:35: [SM]   [0]  Line 26, bp.sp::Event_RoundEnd()
+L 09/05/2013 - 12:37:35: World triggered "Game_Commencing"
+STEAMAUTH: Client Dijkstra received failure code 6
+L 09/05/2013 - 12:37:46: STEAMAUTH: Client Dijkstra received failure code 6
+L 09/05/2013 - 12:37:46: "Dijkstra<16><STEAM_1:0:54679011><CT>" disconnected (reason "No Steam logon")
+L 09/05/2013 - 12:37:46: "Dijkstra<16><STEAM_1:0:54679011>" switched from team <CT> to <Unassigned>
+Game will not start until both teams have players.
+Dropped Dijkstra from server (No Steam logon)
+STEAMAUTH: Client Drahtz received failure code 6
+L 09/05/2013 - 12:37:47: STEAMAUTH: Client Drahtz received failure code 6
+L 09/05/2013 - 12:37:47: "Drahtz<17><STEAM_1:0:42575687><TERRORIST>" disconnected (reason "No Steam logon")
+L 09/05/2013 - 12:37:47: "Drahtz<17><STEAM_1:0:42575687>" switched from team <TERRORIST> to <Unassigned>
+Game will not start until both teams have players.
+Dropped Drahtz from server (No Steam logon)
+L 09/05/2013 - 12:37:51: World triggered "Round_Start"
+-> Reservation cookie 0:  reason reserved(yes), clients(no), reservationexpires(0.00)
+Server is hibernating
+L 09/05/2013 - 12:37:52: "Battle Pro Beta TV GOTV<15><BOT><Unassigned>" disconnected (reason "Punting bot, server is hibernating")
+Game will not start until both teams have players.
+-> Reservation cookie 18600007d0b0436:  reason ReplyReservationRequest
+ApplyGameSettings: Map ar_baggage not part of Mapgroup 
+ApplyGameSettings: MapGroup  not part of type classic mode competitive
+Executing server command:
+mapgroup 
+nextlevel ar_baggage
+map ar_baggage reserved
+
+---
+Host_MapGroup_f: No mapgroup specified
+L 09/05/2013 - 12:50:05: server_cvar: "nextlevel" "ar_baggage"
+Server waking up from hibernation
+L 09/05/2013 - 12:50:05: [META] Loaded 0 plugins (1 already loaded)
+---- Host_Changelevel ----
+L 09/05/2013 - 12:50:05: [META] Loaded 0 plugins (1 already loaded)
+*** Map Load: ar_baggage: Map Group L 09/05/2013 - 12:50:05: Loading map "ar_baggage"
+L 09/05/2013 - 12:50:05: server cvars start
+L 09/05/2013 - 12:50:05: "cash_player_killed_teammate" = "-3300"
+L 09/05/2013 - 12:50:05: "sv_maxspeed" = "320"
+L 09/05/2013 - 12:50:05: "cash_player_respawn_amount" = "0"
+L 09/05/2013 - 12:50:05: "cash_team_rescued_hostage" = "600"
+L 09/05/2013 - 12:50:05: "cash_team_win_by_defusing_bomb" = "3500"
+L 09/05/2013 - 12:50:05: "sv_rollangle" = "0"
+L 09/05/2013 - 12:50:05: "r_AirboatViewZHeight" = "0.0"
+L 09/05/2013 - 12:50:05: "sv_cheats" = "0"
+L 09/05/2013 - 12:50:05: "r_VehicleViewDampen" = "1"
+L 09/05/2013 - 12:50:05: "metamod_version" = "1.10.0-devV"
+L 09/05/2013 - 12:50:05: "mp_allowNPCs" = "1"
+L 09/05/2013 - 12:50:05: "mp_tournament" = "0"
+L 09/05/2013 - 12:50:05: "sv_spec_hear" = "1"
+L 09/05/2013 - 12:50:05: "cash_player_interact_with_hostage" = "300"
+L 09/05/2013 - 12:50:05: "mp_flashlight" = "0"
+L 09/05/2013 - 12:50:05: "mp_maxrounds" = "30"
+L 09/05/2013 - 12:50:05: "sv_tags" = ""
+L 09/05/2013 - 12:50:05: "sv_stepsize" = "18"
+L 09/05/2013 - 12:50:05: "mp_teamlist" = "hgrunt;scientist"
+L 09/05/2013 - 12:50:05: "sv_alltalk" = "0"
+L 09/05/2013 - 12:50:05: "mp_footsteps" = "1"
+L 09/05/2013 - 12:50:05: "sv_noclipaccelerate" = "5"
+L 09/05/2013 - 12:50:05: "sv_wateraccelerate" = "10"
+L 09/05/2013 - 12:50:05: "mp_autocrosshair" = "1"
+L 09/05/2013 - 12:50:05: "mp_stalemate_enable" = "0"
+L 09/05/2013 - 12:50:05: "sourcemod_version" = "1.5.0-dev+3755"
+L 09/05/2013 - 12:50:05: "cash_team_elimination_bomb_map" = "3250"
+L 09/05/2013 - 12:50:05: "cash_player_get_killed" = "0"
+L 09/05/2013 - 12:50:05: "mp_roundtime_defuse" = "2"
+L 09/05/2013 - 12:50:05: "sv_autobuyammo" = "1"
+L 09/05/2013 - 12:50:05: "sv_rollspeed" = "200"
+L 09/05/2013 - 12:50:05: "sv_airaccelerate" = "10"
+L 09/05/2013 - 12:50:05: "mp_teams_unbalance_limit" = "1"
+L 09/05/2013 - 12:50:05: "mp_timelimit" = "0"
+L 09/05/2013 - 12:50:05: "cash_team_loser_bonus" = "1400"
+L 09/05/2013 - 12:50:05: "sv_deadtalk" = "1"
+L 09/05/2013 - 12:50:05: "cash_player_rescued_hostage" = "1000"
+L 09/05/2013 - 12:50:05: "sv_waterfriction" = "1"
+L 09/05/2013 - 12:50:05: "sv_competitive_official_5v5" = "0"
+L 09/05/2013 - 12:50:05: "sv_steamgroup" = ""
+L 09/05/2013 - 12:50:05: "cash_player_killed_enemy_default" = "300"
+L 09/05/2013 - 12:50:05: "coop" = "0"
+L 09/05/2013 - 12:50:05: "mp_respawnwavetime" = "10.0"
+L 09/05/2013 - 12:50:05: "nextlevel" = "ar_baggage"
+L 09/05/2013 - 12:50:05: "sv_stopspeed" = "75"
+L 09/05/2013 - 12:50:05: "sv_specaccelerate" = "5"
+L 09/05/2013 - 12:50:05: "deathmatch" = "1"
+L 09/05/2013 - 12:50:05: "tv_enable" = "1"
+L 09/05/2013 - 12:50:05: "mp_falldamage" = "0"
+L 09/05/2013 - 12:50:05: "mp_teammates_are_enemies" = "0"
+L 09/05/2013 - 12:50:05: "mp_roundtime_hostage" = "2"
+L 09/05/2013 - 12:50:05: "mp_freezetime" = "15"
+L 09/05/2013 - 12:50:05: "sv_accelerate_use_weapon_speed" = "0"
+L 09/05/2013 - 12:50:05: "sv_voiceenable" = "1"
+L 09/05/2013 - 12:50:05: "sv_bounce" = "0"
+L 09/05/2013 - 12:50:05: "r_AirboatViewDampenFreq" = "7.0"
+L 09/05/2013 - 12:50:05: "mp_disable_respawn_times" = "0"
+L 09/05/2013 - 12:50:05: "mp_weaponstay" = "0"
+L 09/05/2013 - 12:50:05: "mp_hostagepenalty" = "10"
+L 09/05/2013 - 12:50:05: "tv_advertise_watchable" = "0"
+L 09/05/2013 - 12:50:05: "mp_friendlyfire" = "1"
+L 09/05/2013 - 12:50:05: "sv_noclipspeed" = "5"
+L 09/05/2013 - 12:50:05: "cash_team_hostage_interaction" = "600"
+L 09/05/2013 - 12:50:05: "sv_allchat" = "1"
+L 09/05/2013 - 12:50:05: "cash_team_win_by_time_running_out_bomb" = "3250"
+L 09/05/2013 - 12:50:05: "mp_buy_during_immunity" = "0"
+L 09/05/2013 - 12:50:05: "cash_player_killed_enemy_factor" = "1"
+L 09/05/2013 - 12:50:05: "r_JeepViewDampenDamp" = "1.0"
+L 09/05/2013 - 12:50:05: "mp_c4timer" = "45"
+L 09/05/2013 - 12:50:05: "r_AirboatViewDampenDamp" = "1.0"
+L 09/05/2013 - 12:50:05: "sv_competitive_minspec" = "1"
+L 09/05/2013 - 12:50:05: "sm_nextmap" = ""
+L 09/05/2013 - 12:50:05: "mp_stalemate_at_timelimit" = "0"
+L 09/05/2013 - 12:50:05: "sv_footsteps" = "1"
+L 09/05/2013 - 12:50:05: "mp_limitteams" = "0"
+L 09/05/2013 - 12:50:05: "sv_vote_issue_kick_allowed" = "1"
+L 09/05/2013 - 12:50:05: "tv_relaypassword" = ""
+L 09/05/2013 - 12:50:05: "mp_teamplay" = "0"
+L 09/05/2013 - 12:50:05: "cash_team_terrorist_win_bomb" = "3500"
+L 09/05/2013 - 12:50:05: "cash_team_elimination_hostage_map_t" = "3000"
+L 09/05/2013 - 12:50:05: "r_JeepViewDampenFreq" = "7.0"
+L 09/05/2013 - 12:50:05: "sv_specnoclip" = "1"
+L 09/05/2013 - 12:50:05: "sv_friction" = "4.8"
+L 09/05/2013 - 12:50:05: "cash_team_win_by_time_running_out_hostage" = "3250"
+L 09/05/2013 - 12:50:05: "cash_player_bomb_planted" = "300"
+L 09/05/2013 - 12:50:05: "mp_autoteambalance" = "0"
+L 09/05/2013 - 12:50:05: "sv_contact" = ""
+L 09/05/2013 - 12:50:05: "sv_vote_kick_ban_duration" = "15"
+L 09/05/2013 - 12:50:05: "bp_version" = "1.0"
+L 09/05/2013 - 12:50:05: "cash_player_bomb_defused" = "300"
+L 09/05/2013 - 12:50:05: "mp_roundtime" = "2"
+L 09/05/2013 - 12:50:05: "sv_kick_ban_duration" = "15"
+L 09/05/2013 - 12:50:05: "cash_team_planted_bomb_but_defused" = "800"
+L 09/05/2013 - 12:50:05: "cash_player_killed_hostage" = "-1000"
+L 09/05/2013 - 12:50:05: "mp_fraglimit" = "0"
+L 09/05/2013 - 12:50:05: "mp_forcerespawn" = "1"
+L 09/05/2013 - 12:50:05: "decalfrequency" = "10"
+L 09/05/2013 - 12:50:05: "mp_buy_anywhere" = "0"
+L 09/05/2013 - 12:50:05: "sv_accelerate" = "5.6"
+L 09/05/2013 - 12:50:05: "mp_winlimit" = "0"
+L 09/05/2013 - 12:50:05: "sv_gravity" = "800"
+L 09/05/2013 - 12:50:05: "sv_password" = "battle2011"
+L 09/05/2013 - 12:50:05: "cash_team_elimination_hostage_map_ct" = "3000"
+L 09/05/2013 - 12:50:05: "cash_team_win_by_hostage_rescue" = "2900"
+L 09/05/2013 - 12:50:05: "r_JeepViewZHeight" = "10.0"
+L 09/05/2013 - 12:50:05: "cash_team_loser_bonus_consecutive_rounds" = "500"
+L 09/05/2013 - 12:50:05: "cash_player_damage_hostage" = "-30"
+L 09/05/2013 - 12:50:05: "cash_team_hostage_alive" = "0"
+L 09/05/2013 - 12:50:05: "tv_password" = "battle2011"
+L 09/05/2013 - 12:50:05: "sv_specspeed" = "3"
+L 09/05/2013 - 12:50:05: server cvars end
+L 09/05/2013 - 12:50:05: Started map "ar_baggage" (CRC "-1458358218")
+L 09/05/2013 - 12:50:05: -------- Mapchange to ar_baggage --------
+L 09/05/2013 - 12:50:05: Error log file session closed.
+GameTypes: initializing game types interface from GameModes.txt.
+GameTypes: merging game types interface from gamemodes_server.txt.
+GameTypes: missing mapgroupsSP entry for game type/mode (custom/custom).
+bot_autodifficulty_threshold_high - 2.0
+bot_autodifficulty_threshold_low - -6.0
+bot_chatter - normal
+bot_defer_to_human_goals - 0
+bot_defer_to_human_items - 1
+bot_difficulty - 1
+bot_quota - 10
+bot_quota_mode - normal
+bot_allow_grenades - 1
+bot_allow_pistols - 1
+bot_allow_sub_machine_guns - 1
+bot_allow_shotguns - 1
+bot_allow_rifles - 1
+bot_allow_snipers - 1
+bot_allow_machine_guns - 1
+mp_playercashawards - 1
+cash_player_bomb_defused - 300
+cash_player_bomb_planted - 300
+cash_player_damage_hostage - -30
+L 09/05/2013 - 12:50:05: server_cvar: "cash_player_interact_with_hostage" "150"
+cash_player_interact_with_hostage - 150
+cash_player_killed_enemy_default - 300
+cash_player_killed_enemy_factor - 1
+cash_player_killed_hostage - -1000
+cash_player_killed_teammate - -3300
+cash_player_rescued_hostage - 1000
+cash_player_respawn_amount - 0
+cash_player_get_killed - 0
+mp_teamcashawards - 1
+cash_team_elimination_bomb_map - 3250
+L 09/05/2013 - 12:50:05: server_cvar: "cash_team_elimination_hostage_map_t" "1000"
+cash_team_elimination_hostage_map_t - 1000
+L 09/05/2013 - 12:50:05: server_cvar: "cash_team_elimination_hostage_map_ct" "2000"
+cash_team_elimination_hostage_map_ct - 2000
+cash_team_hostage_alive - 0
+L 09/05/2013 - 12:50:05: server_cvar: "cash_team_hostage_interaction" "500"
+cash_team_hostage_interaction - 500
+cash_team_loser_bonus - 1400
+cash_team_loser_bonus_consecutive_rounds - 500
+cash_team_planted_bomb_but_defused - 800
+L 09/05/2013 - 12:50:05: server_cvar: "cash_team_rescued_hostage" "0"
+cash_team_rescued_hostage - 0
+cash_team_terrorist_win_bomb - 3500
+L 09/05/2013 - 12:50:05: server_cvar: "cash_team_win_by_defusing_bomb" "3250"
+cash_team_win_by_defusing_bomb - 3250
+L 09/05/2013 - 12:50:05: server_cvar: "cash_team_win_by_hostage_rescue" "3500"
+cash_team_win_by_hostage_rescue - 3500
+cash_team_win_by_time_running_out_bomb - 3250
+cash_team_win_by_time_running_out_hostage - 3250
+mp_afterroundmoney - 0
+mp_buytime - 90
+mp_buy_anywhere - 0
+mp_buy_during_immunity - 0
+mp_startmoney - 800
+mp_maxmoney - 16000
+mp_death_drop_defuser - 1
+mp_death_drop_grenade - 2
+mp_death_drop_gun - 1
+mp_deathcam_skippable - 1
+mp_defuser_allocation - 0
+mp_give_player_c4 - 1
+mp_free_armor - 0
+mp_molotovusedelay - 15.0
+mp_weapons_allow_zeus - 1
+mp_weapons_allow_map_placed - 0
+mp_weapons_glow_on_ground - 0
+mp_ct_default_melee - weapon_knife
+mp_ct_default_secondary - weapon_hkp2000
+mp_ct_default_primary - 
+mp_ct_default_grenades - 
+mp_t_default_melee - weapon_knife
+mp_t_default_secondary - weapon_glock
+mp_t_default_primary - 
+mp_t_default_grenades - 
+mp_buy_allow_grenades - 1
+L 09/05/2013 - 12:50:05: server_cvar: "mp_freezetime" "6"
+mp_freezetime - 6
+mp_force_pick_time - 15
+mp_halftime - 0
+mp_match_can_clinch - 1
+L 09/05/2013 - 12:50:05: server_cvar: "mp_maxrounds" "0"
+mp_maxrounds - 0
+L 09/05/2013 - 12:50:05: server_cvar: "mp_roundtime" "5"
+mp_roundtime - 5
+L 09/05/2013 - 12:50:05: server_cvar: "mp_roundtime_defuse" "0"
+mp_roundtime_defuse - 0
+L 09/05/2013 - 12:50:05: server_cvar: "mp_roundtime_hostage" "0"
+mp_roundtime_hostage - 0
+L 09/05/2013 - 12:50:05: server_cvar: "mp_timelimit" "5"
+mp_timelimit - 5
+mp_warmuptime - 30
+mp_warmup_pausetimer - 0
+mp_halftime_pausetimer - 0
+mp_default_team_winner_no_objective - -1
+mp_hostagepenalty - 10
+mp_solid_teammates - 1
+sv_allow_votes - 1
+sv_alltalk - 0
+L 09/05/2013 - 12:50:05: server_cvar: "sv_deadtalk" "0"
+sv_deadtalk - 0
+sv_ignoregrenaderadio - 0
+mp_teammates_are_enemies - 0
+mp_damage_scale_ct_body - 1.0
+mp_damage_scale_ct_head - 1.0
+mp_damage_scale_t_body - 1.0
+mp_damage_scale_t_head - 1.0
+L 09/05/2013 - 12:50:05: server_cvar: "mp_friendlyfire" "0"
+mp_friendlyfire - 0
+ff_damage_reduction_bullets - 0.1
+ff_damage_reduction_grenade - 0.25
+ff_damage_reduction_grenade_self - 1
+ff_damage_reduction_other - 0.25
+L 09/05/2013 - 12:50:05: server_cvar: "mp_limitteams" "2"
+mp_limitteams - 2
+spec_freeze_panel_extended_time - 0.0
+spec_freeze_time - 5.0
+mp_forcecamera - 1
+mp_respawn_immunitytime - 4.0
+mp_respawn_on_death_t - 0
+mp_respawn_on_death_ct - 0
+mp_display_kill_assists - 1
+mp_use_respawn_waves - 0
+mp_respawnwavetime_ct - 10.0
+mp_respawnwavetime_t - 10.0
+mp_randomspawn - 0
+mp_randomspawn_los - 1
+mp_radar_showall - 0
+sv_gravity - 800
+sv_accelerate - 5.6
+sv_stopspeed - 75
+sv_airaccelerate - 10
+sv_wateraccelerate - 10
+sv_waterfriction - 1
+sv_friction - 4.8
+sv_bounce - 0
+sv_maxvelocity - 3500
+sv_maxspeed - 320
+mp_ggprogressive_round_restart_delay - 15.0
+mp_ggtr_bomb_defuse_bonus - 1.0
+mp_ggtr_bomb_detonation_bonus - 1.0
+mp_ggtr_bomb_pts_for_flash - 4
+mp_ggtr_bomb_pts_for_he - 3
+mp_ggtr_bomb_pts_for_molotov - 5
+mp_ggtr_bomb_pts_for_upgrade - 2.0
+mp_ggtr_bomb_respawn_delay - 0.0
+mp_ggtr_end_round_kill_bonus - 1
+mp_ggtr_halftime_delay - 0.0
+mp_ggtr_last_weapon_kill_ends_half - 0
+sv_arms_race_vote_to_restart_disallowed_after - 0
+Executing dedicated server config file
+L 09/05/2013 - 12:50:05: server_cvar: "nextlevel" ""
+Server logging enabled.
+L 09/05/2013 - 12:50:05: server_cvar: "mp_freezetime" "0"
+L 09/05/2013 - 12:50:05: server_cvar: "mp_limitteams" "0"
+maxplayers set to 64
+L 09/05/2013 - 12:50:05: server_cvar: "cash_player_interact_with_hostage" "300"
+L 09/05/2013 - 12:50:05: server_cvar: "cash_team_elimination_hostage_map_t" "3000"
+L 09/05/2013 - 12:50:05: server_cvar: "cash_team_elimination_hostage_map_ct" "3000"
+L 09/05/2013 - 12:50:05: server_cvar: "cash_team_hostage_interaction" "600"
+L 09/05/2013 - 12:50:05: server_cvar: "cash_team_rescued_hostage" "600"
+L 09/05/2013 - 12:50:05: server_cvar: "cash_team_win_by_defusing_bomb" "3500"
+L 09/05/2013 - 12:50:05: server_cvar: "cash_team_win_by_hostage_rescue" "2900"
+Unknown command "mp_deathcam_skippable"
+L 09/05/2013 - 12:50:05: server_cvar: "mp_freezetime" "15"
+L 09/05/2013 - 12:50:05: server_cvar: "mp_friendlyfire" "1"
+L 09/05/2013 - 12:50:05: server_cvar: "mp_maxrounds" "30"
+L 09/05/2013 - 12:50:05: server_cvar: "mp_roundtime" "2"
+L 09/05/2013 - 12:50:05: server_cvar: "mp_roundtime_hostage" "2"
+L 09/05/2013 - 12:50:05: server_cvar: "mp_roundtime_defuse" "2"
+L 09/05/2013 - 12:50:05: server_cvar: "mp_timelimit" "0"
+L 09/05/2013 - 12:50:05: server_cvar: "sv_deadtalk" "1"
+exec: couldn't exec gamemode_competitive_server.cfg
+Commentary: Could not find commentary data file 'maps/ar_baggage_commentary.txt'. 
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+Error parsing BotProfile.db - unknown attribute 'Rank'
+L 09/05/2013 - 12:50:06: "GOTV<18><BOT><>" connected, address "none"
+PutClientInServer: no info_player_start on level
+L 09/05/2013 - 12:50:06: "GOTV<18><BOT><>" entered the game
+L 09/05/2013 - 12:50:06: "GOTV<18><BOT><Unassigned>" changed name to "Battle Pro Beta TV GOTV"
+L 09/05/2013 - 12:50:06: World triggered "Round_Start"
+GOTV broadcast active.
+L 09/05/2013 - 12:50:06: "Cuchillin<19><STEAM_1:1:56695116><>" connected, address "190.15.199.82:26561"
+Client "Cuchillin" connected (190.15.199.82:26561).
+L 09/05/2013 - 12:50:06: "Cuchillin<19><STEAM_1:1:56695116><>" STEAM USERID validated
+L 09/05/2013 - 12:50:15: "Dijkstra<20><STEAM_1:0:54679011><>" connected, address "186.59.10.27:17321"
+Client "Dijkstra" connected (186.59.10.27:17321).
+L 09/05/2013 - 12:50:15: "KaiserSoze<21><STEAM_1:1:34140120><>" connected, address "190.15.199.82:26625"
+Client "KaiserSoze" connected (190.15.199.82:26625).
+L 09/05/2013 - 12:50:15: "Dijkstra<20><STEAM_1:0:54679011><>" STEAM USERID validated
+L 09/05/2013 - 12:50:15: "KaiserSoze<21><STEAM_1:1:34140120><>" STEAM USERID validated
+PutClientInServer: no info_player_start on level
+L 09/05/2013 - 12:50:16: "Cuchillin<19><STEAM_1:1:56695116><>" entered the game
+CreateFragmentsFromFile: 'downloads/1ab72a88.dat' doesn't exist.
+L 09/05/2013 - 12:50:20: "Cuchillin<19><STEAM_1:1:56695116><Unassigned>" triggered "clantag" (value "")
+L 09/05/2013 - 12:50:21: "Drahtz<22><STEAM_1:0:42575687><>" connected, address "190.15.199.82:26689"
+Client "Drahtz" connected (190.15.199.82:26689).
+L 09/05/2013 - 12:50:22: "Drahtz<22><STEAM_1:0:42575687><>" STEAM USERID validated
+L 09/05/2013 - 12:50:27: "Cuchillin<19><STEAM_1:1:56695116>" switched from team <Unassigned> to <TERRORIST>
+L 09/05/2013 - 12:50:28: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" triggered "clantag" (value "")
+Game will not start until both teams have players.
+CreateFragmentsFromFile: 'downloads/1ab72a88.dat' doesn't exist.
+PutClientInServer: no info_player_start on level
+L 09/05/2013 - 12:50:33: "Drahtz<22><STEAM_1:0:42575687><>" entered the game
+CreateFragmentsFromFile: 'downloads/1ab72a88.dat' doesn't exist.
+PutClientInServer: no info_player_start on level
+L 09/05/2013 - 12:50:35: "KaiserSoze<21><STEAM_1:1:34140120><>" entered the game
+CreateFragmentsFromFile: 'downloads/1ab72a88.dat' doesn't exist.
+CreateFragmentsFromFile: 'downloads/1ab72a88.dat' doesn't exist.
+L 09/05/2013 - 12:50:37: "Drahtz<22><STEAM_1:0:42575687><Unassigned>" triggered "clantag" (value "")
+CreateFragmentsFromFile: 'downloads/1ab72a88.dat' doesn't exist.
+PutClientInServer: no info_player_start on level
+L 09/05/2013 - 12:50:38: "Dijkstra<20><STEAM_1:0:54679011><>" entered the game
+CreateFragmentsFromFile: 'downloads/1ab72a88.dat' doesn't exist.
+CreateFragmentsFromFile: 'downloads/1ab72a88.dat' doesn't exist.
+CreateFragmentsFromFile: 'downloads/1ab72a88.dat' doesn't exist.
+CreateFragmentsFromFile: 'downloads/1ab72a88.dat' doesn't exist.
+CreateFragmentsFromFile: 'downloads/1ab72a88.dat' doesn't exist.
+L 09/05/2013 - 12:50:39: "KaiserSoze<21><STEAM_1:1:34140120><Unassigned>" triggered "clantag" (value "")
+CreateFragmentsFromFile: 'downloads/1ab72a88.dat' doesn't exist.
+L 09/05/2013 - 12:50:42: "Drahtz<22><STEAM_1:0:42575687>" switched from team <Unassigned> to <CT>
+L 09/05/2013 - 12:50:42: "Drahtz<22><STEAM_1:0:42575687><CT>" triggered "clantag" (value "")
+Game will not start until both teams have players.
+CreateFragmentsFromFile: 'downloads/1ab72a88.dat' doesn't exist.
+CreateFragmentsFromFile: 'downloads/1ab72a88.dat' doesn't exist.
+CreateFragmentsFromFile: 'downloads/1ab72a88.dat' doesn't exist.
+CreateFragmentsFromFile: 'downloads/1ab72a88.dat' doesn't exist.
+L 09/05/2013 - 12:50:43: "Dijkstra<20><STEAM_1:0:54679011><Unassigned>" triggered "clantag" (value "")
+L 09/05/2013 - 12:50:44: "KaiserSoze<21><STEAM_1:1:34140120>" switched from team <Unassigned> to <TERRORIST>
+L 09/05/2013 - 12:50:44: "KaiserSoze<21><STEAM_1:1:34140120><TERRORIST>" triggered "clantag" (value "")
+L 09/05/2013 - 12:50:44: [SM] Native "PrintToChat" reported: Client index 0 is invalid
+L 09/05/2013 - 12:50:44: [SM] Displaying call stack trace for plugin "bp.smx":
+L 09/05/2013 - 12:50:44: [SM]   [0]  Line 26, bp.sp::Event_RoundEnd()
+L 09/05/2013 - 12:50:44: World triggered "Game_Commencing"
+L 09/05/2013 - 12:50:47: World triggered "Round_Start"
+L 09/05/2013 - 12:50:53: "Dijkstra<20><STEAM_1:0:54679011>" switched from team <Unassigned> to <CT>
+L 09/05/2013 - 12:50:53: "Dijkstra<20><STEAM_1:0:54679011><CT>" triggered "clantag" (value "")
+L 09/05/2013 - 12:50:56: "KaiserSoze<21><STEAM_1:1:34140120><TERRORIST>" [-259 -69 160] killed "Drahtz<22><STEAM_1:0:42575687><CT>" [-50 -550 128] with "glock"
+L 09/05/2013 - 12:51:02: "KaiserSoze<21><STEAM_1:1:34140120><TERRORIST>" [10 -764 64] killed "Dijkstra<20><STEAM_1:0:54679011><CT>" [73 -785 110] with "glock" (headshot)
+L 09/05/2013 - 12:51:11: "KaiserSoze<21><STEAM_1:1:34140120><TERRORIST>" [263 280 -176] killed "Dijkstra<20><STEAM_1:0:54679011><CT>" [336 306 -112] with "glock"
+L 09/05/2013 - 12:51:27: "KaiserSoze<21><STEAM_1:1:34140120><TERRORIST>" [-241 -566 64] killed "Drahtz<22><STEAM_1:0:42575687><CT>" [147 -566 116] with "glock" (headshot)
+L 09/05/2013 - 12:51:37: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [116 -239 33] killed "Dijkstra<20><STEAM_1:0:54679011><CT>" [55 -328 101] with "glock" (headshot)
+L 09/05/2013 - 12:51:37: "KaiserSoze<21><STEAM_1:1:34140120><TERRORIST>" assisted killing "Dijkstra<20><STEAM_1:0:54679011><CT>"
+L 09/05/2013 - 12:51:45: "Drahtz<22><STEAM_1:0:42575687><CT>" [-17 -1011 64] killed "KaiserSoze<21><STEAM_1:1:34140120><TERRORIST>" [112 -972 128] with "hkp2000"
+L 09/05/2013 - 12:51:46: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [-33 -1220 64] killed "Drahtz<22><STEAM_1:0:42575687><CT>" [-66 -1169 128] with "glock" (headshot)
+L 09/05/2013 - 12:51:46: "KaiserSoze<21><STEAM_1:1:34140120><TERRORIST>" assisted killing "Drahtz<22><STEAM_1:0:42575687><CT>"
+L 09/05/2013 - 12:51:48: "Dijkstra<20><STEAM_1:0:54679011><CT>" [-163 -914 64] killed "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [-112 -1267 128] with "hkp2000"
+L 09/05/2013 - 12:51:48: "Drahtz<22><STEAM_1:0:42575687><CT>" assisted killing "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>"
+L 09/05/2013 - 12:52:00: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [-212 -18 24] killed "Dijkstra<20><STEAM_1:0:54679011><CT>" [-114 -149 96] with "glock"
+L 09/05/2013 - 12:52:03: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [-113 -53 32] killed "Drahtz<22><STEAM_1:0:42575687><CT>" [-278 -422 128] with "glock"
+L 09/05/2013 - 12:52:25: World triggered "Round_Start"
+L 09/05/2013 - 12:52:33: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [88 35 32] killed "Dijkstra<20><STEAM_1:0:54679011><CT>" [108 -359 108] with "glock" (headshot)
+L 09/05/2013 - 12:52:34: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [93 -197 32] killed "Drahtz<22><STEAM_1:0:42575687><CT>" [29 -337 121] with "glock" (headshot)
+L 09/05/2013 - 12:52:34: [SM] Native "PrintToChat" reported: Client index 0 is invalid
+L 09/05/2013 - 12:52:34: [SM] Displaying call stack trace for plugin "bp.smx":
+L 09/05/2013 - 12:52:34: [SM]   [0]  Line 26, bp.sp::Event_RoundEnd()
+L 09/05/2013 - 12:52:34: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "0") (T "1")
+L 09/05/2013 - 12:52:34: Team "CT" scored "0" with "2" players
+L 09/05/2013 - 12:52:34: Team "TERRORIST" scored "1" with "2" players
+L 09/05/2013 - 12:52:34: World triggered "Round_End"
+L 09/05/2013 - 12:52:59: World triggered "Round_Start"
+L 09/05/2013 - 12:53:09: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [-136 -541 64] killed "Drahtz<22><STEAM_1:0:42575687><CT>" [-45 -448 128] with "glock"
+L 09/05/2013 - 12:53:10: "KaiserSoze<21><STEAM_1:1:34140120><TERRORIST>" [48 665 104] killed "Dijkstra<20><STEAM_1:0:54679011><CT>" [84 -22 96] with "glock" (headshot)
+L 09/05/2013 - 12:53:10: [SM] Native "PrintToChat" reported: Client index 0 is invalid
+L 09/05/2013 - 12:53:10: [SM] Displaying call stack trace for plugin "bp.smx":
+L 09/05/2013 - 12:53:10: [SM]   [0]  Line 26, bp.sp::Event_RoundEnd()
+L 09/05/2013 - 12:53:10: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "0") (T "2")
+L 09/05/2013 - 12:53:10: Team "CT" scored "0" with "2" players
+L 09/05/2013 - 12:53:10: Team "TERRORIST" scored "2" with "2" players
+L 09/05/2013 - 12:53:10: World triggered "Round_End"
+L 09/05/2013 - 12:53:35: World triggered "Round_Start"
+L 09/05/2013 - 12:53:42: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [77 189 32] killed "Dijkstra<20><STEAM_1:0:54679011><CT>" [104 -188 96] with "glock" (headshot)
+L 09/05/2013 - 12:53:44: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [77 189 32] killed "Drahtz<22><STEAM_1:0:42575687><CT>" [85 -527 128] with "glock" (headshot)
+L 09/05/2013 - 12:53:44: [SM] Native "PrintToChat" reported: Client index 0 is invalid
+L 09/05/2013 - 12:53:44: [SM] Displaying call stack trace for plugin "bp.smx":
+L 09/05/2013 - 12:53:44: [SM]   [0]  Line 26, bp.sp::Event_RoundEnd()
+L 09/05/2013 - 12:53:44: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "0") (T "3")
+L 09/05/2013 - 12:53:44: Team "CT" scored "0" with "2" players
+L 09/05/2013 - 12:53:44: Team "TERRORIST" scored "3" with "2" players
+L 09/05/2013 - 12:53:44: World triggered "Round_End"
+L 09/05/2013 - 12:54:09: World triggered "Round_Start"
+L 09/05/2013 - 12:54:15: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [128 1 32] killed "Drahtz<22><STEAM_1:0:42575687><CT>" [-38 -362 127] with "glock" (headshot)
+L 09/05/2013 - 12:54:17: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [92 -158 32] killed "Dijkstra<20><STEAM_1:0:54679011><CT>" [117 -407 110] with "glock" (headshot)
+L 09/05/2013 - 12:54:17: "KaiserSoze<21><STEAM_1:1:34140120><TERRORIST>" assisted killing "Dijkstra<20><STEAM_1:0:54679011><CT>"
+L 09/05/2013 - 12:54:17: [SM] Native "PrintToChat" reported: Client index 0 is invalid
+L 09/05/2013 - 12:54:17: [SM] Displaying call stack trace for plugin "bp.smx":
+L 09/05/2013 - 12:54:17: [SM]   [0]  Line 26, bp.sp::Event_RoundEnd()
+L 09/05/2013 - 12:54:17: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "0") (T "4")
+L 09/05/2013 - 12:54:17: Team "CT" scored "0" with "2" players
+L 09/05/2013 - 12:54:17: Team "TERRORIST" scored "4" with "2" players
+L 09/05/2013 - 12:54:17: World triggered "Round_End"
+L 09/05/2013 - 12:54:42: World triggered "Round_Start"
+L 09/05/2013 - 12:54:50: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [-322 54 160] killed "Drahtz<22><STEAM_1:0:42575687><CT>" [-32 -418 128] with "glock"
+L 09/05/2013 - 12:54:52: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [-322 -16 160] killed "Dijkstra<20><STEAM_1:0:54679011><CT>" [-13 -323 100] with "glock" (headshot)
+L 09/05/2013 - 12:54:52: [SM] Native "PrintToChat" reported: Client index 0 is invalid
+L 09/05/2013 - 12:54:52: [SM] Displaying call stack trace for plugin "bp.smx":
+L 09/05/2013 - 12:54:52: [SM]   [0]  Line 26, bp.sp::Event_RoundEnd()
+L 09/05/2013 - 12:54:52: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "0") (T "5")
+L 09/05/2013 - 12:54:52: Team "CT" scored "0" with "2" players
+L 09/05/2013 - 12:54:52: Team "TERRORIST" scored "5" with "2" players
+L 09/05/2013 - 12:54:52: World triggered "Round_End"
+L 09/05/2013 - 12:55:17: World triggered "Round_Start"
+L 09/05/2013 - 12:55:25: "KaiserSoze<21><STEAM_1:1:34140120><TERRORIST>" [400 1125 64] killed "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [390 1108 128] with "glock" (headshot)
+L 09/05/2013 - 12:55:31: "KaiserSoze<21><STEAM_1:1:34140120><TERRORIST>" [263 254 117] killed "Drahtz<22><STEAM_1:0:42575687><CT>" [53 216 96] with "glock" (headshot)
+L 09/05/2013 - 12:56:03: "KaiserSoze<21><STEAM_1:1:34140120><TERRORIST>" [-94 746 64] killed "Dijkstra<20><STEAM_1:0:54679011><CT>" [-368 629 128] with "glock"
+L 09/05/2013 - 12:56:03: "Drahtz<22><STEAM_1:0:42575687><CT>" assisted killing "Dijkstra<20><STEAM_1:0:54679011><CT>"
+L 09/05/2013 - 12:56:03: [SM] Native "PrintToChat" reported: Client index 0 is invalid
+L 09/05/2013 - 12:56:03: [SM] Displaying call stack trace for plugin "bp.smx":
+L 09/05/2013 - 12:56:03: [SM]   [0]  Line 26, bp.sp::Event_RoundEnd()
+L 09/05/2013 - 12:56:03: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "0") (T "6")
+L 09/05/2013 - 12:56:03: Team "CT" scored "0" with "2" players
+L 09/05/2013 - 12:56:03: Team "TERRORIST" scored "6" with "2" players
+L 09/05/2013 - 12:56:03: World triggered "Round_End"
+L 09/05/2013 - 12:56:28: World triggered "Round_Start"
+L 09/05/2013 - 12:56:31: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [175 1181 64] killed "KaiserSoze<21><STEAM_1:1:34140120><TERRORIST>" [126 1212 128] with "glock" (headshot)
+L 09/05/2013 - 12:56:39: "Drahtz<22><STEAM_1:0:42575687><CT>" [96 -488 64] killed "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [273 157 198] with "hkp2000" (headshot)
+L 09/05/2013 - 12:56:39: [SM] Native "PrintToChat" reported: Client index 0 is invalid
+L 09/05/2013 - 12:56:39: [SM] Displaying call stack trace for plugin "bp.smx":
+L 09/05/2013 - 12:56:39: [SM]   [0]  Line 26, bp.sp::Event_RoundEnd()
+L 09/05/2013 - 12:56:39: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "1") (T "6")
+L 09/05/2013 - 12:56:39: Team "CT" scored "1" with "2" players
+L 09/05/2013 - 12:56:39: Team "TERRORIST" scored "6" with "2" players
+L 09/05/2013 - 12:56:39: World triggered "Round_End"
+L 09/05/2013 - 12:57:04: World triggered "Round_Start"
+L 09/05/2013 - 12:57:11: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [-185 9 31] killed "Dijkstra<20><STEAM_1:0:54679011><CT>" [-362 35 50] with "glock" (headshot)
+L 09/05/2013 - 12:57:14: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [-112 -74 32] killed "Drahtz<22><STEAM_1:0:42575687><CT>" [111 -422 128] with "glock"
+L 09/05/2013 - 12:57:14: [SM] Native "PrintToChat" reported: Client index 0 is invalid
+L 09/05/2013 - 12:57:14: [SM] Displaying call stack trace for plugin "bp.smx":
+L 09/05/2013 - 12:57:14: [SM]   [0]  Line 26, bp.sp::Event_RoundEnd()
+L 09/05/2013 - 12:57:14: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "1") (T "7")
+L 09/05/2013 - 12:57:14: Team "CT" scored "1" with "2" players
+L 09/05/2013 - 12:57:14: Team "TERRORIST" scored "7" with "2" players
+L 09/05/2013 - 12:57:14: World triggered "Round_End"
+L 09/05/2013 - 12:57:39: World triggered "Round_Start"
+L 09/05/2013 - 12:57:47: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [269 -114 160] killed "Drahtz<22><STEAM_1:0:42575687><CT>" [112 -441 128] with "glock"
+L 09/05/2013 - 12:57:59: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [-124 -947 64] killed "Dijkstra<20><STEAM_1:0:54679011><CT>" [-284 -1270 112] with "glock"
+L 09/05/2013 - 12:57:59: [SM] Native "PrintToChat" reported: Client index 0 is invalid
+L 09/05/2013 - 12:57:59: [SM] Displaying call stack trace for plugin "bp.smx":
+L 09/05/2013 - 12:57:59: [SM]   [0]  Line 26, bp.sp::Event_RoundEnd()
+L 09/05/2013 - 12:57:59: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "1") (T "8")
+L 09/05/2013 - 12:57:59: Team "CT" scored "1" with "2" players
+L 09/05/2013 - 12:57:59: Team "TERRORIST" scored "8" with "2" players
+L 09/05/2013 - 12:57:59: World triggered "Round_End"
+L 09/05/2013 - 12:58:24: World triggered "Round_Start"
+L 09/05/2013 - 12:58:33: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [85 -325 54] killed "Drahtz<22><STEAM_1:0:42575687><CT>" [28 -432 128] with "glock" (headshot)
+L 09/05/2013 - 12:58:42: "Dijkstra<20><STEAM_1:0:54679011><CT>" [58 1071 64] killed "KaiserSoze<21><STEAM_1:1:34140120><TERRORIST>" [178 1246 128] with "hkp2000"
+L 09/05/2013 - 12:58:50: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [198 675 64] killed "Dijkstra<20><STEAM_1:0:54679011><CT>" [93 675 128] with "glock"
+L 09/05/2013 - 12:58:50: [SM] Native "PrintToChat" reported: Client index 0 is invalid
+L 09/05/2013 - 12:58:50: [SM] Displaying call stack trace for plugin "bp.smx":
+L 09/05/2013 - 12:58:50: [SM]   [0]  Line 26, bp.sp::Event_RoundEnd()
+L 09/05/2013 - 12:58:50: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "1") (T "9")
+L 09/05/2013 - 12:58:50: Team "CT" scored "1" with "2" players
+L 09/05/2013 - 12:58:50: Team "TERRORIST" scored "9" with "2" players
+L 09/05/2013 - 12:58:50: World triggered "Round_End"
+L 09/05/2013 - 12:59:15: World triggered "Round_Start"
+L 09/05/2013 - 12:59:23: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [-456 6 172] killed "Dijkstra<20><STEAM_1:0:54679011><CT>" [-53 -299 94] with "hkp2000" (headshot)
+L 09/05/2013 - 12:59:27: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [55 -129 32] killed "Drahtz<22><STEAM_1:0:42575687><CT>" [79 -460 110] with "hkp2000"
+L 09/05/2013 - 12:59:27: [SM] Native "PrintToChat" reported: Client index 0 is invalid
+L 09/05/2013 - 12:59:27: [SM] Displaying call stack trace for plugin "bp.smx":
+L 09/05/2013 - 12:59:27: [SM]   [0]  Line 26, bp.sp::Event_RoundEnd()
+L 09/05/2013 - 12:59:27: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "1") (T "10")
+L 09/05/2013 - 12:59:27: Team "CT" scored "1" with "2" players
+L 09/05/2013 - 12:59:27: Team "TERRORIST" scored "10" with "2" players
+L 09/05/2013 - 12:59:27: World triggered "Round_End"
+L 09/05/2013 - 12:59:52: World triggered "Round_Start"
+L 09/05/2013 - 13:00:05: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [-388 -2 -21] killed "KaiserSoze<21><STEAM_1:1:34140120><TERRORIST>" [-380 -7 45] with "knife_default_t"
+L 09/05/2013 - 13:00:10: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [104 -150 32] killed "Drahtz<22><STEAM_1:0:42575687><CT>" [63 -439 128] with "hkp2000" (headshot)
+L 09/05/2013 - 13:00:29: "Dijkstra<20><STEAM_1:0:54679011><CT>" [-195 -214 -176] killed "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [-225 -182 -89] with "knife_default_ct"
+L 09/05/2013 - 13:00:29: [SM] Native "PrintToChat" reported: Client index 0 is invalid
+L 09/05/2013 - 13:00:29: [SM] Displaying call stack trace for plugin "bp.smx":
+L 09/05/2013 - 13:00:29: [SM]   [0]  Line 26, bp.sp::Event_RoundEnd()
+L 09/05/2013 - 13:00:29: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "2") (T "10")
+L 09/05/2013 - 13:00:29: Team "CT" scored "2" with "2" players
+L 09/05/2013 - 13:00:29: Team "TERRORIST" scored "10" with "2" players
+L 09/05/2013 - 13:00:29: World triggered "Round_End"
+L 09/05/2013 - 13:00:54: World triggered "Round_Start"
+L 09/05/2013 - 13:00:54: "Drahtz<22><STEAM_1:0:42575687><CT>" [46 -1258 64] killed "Dijkstra<20><STEAM_1:0:54679011><CT>" [-68 -1264 128] with "hkp2000" (headshot)
+L 09/05/2013 - 13:01:02: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [102 -364 63] killed "Drahtz<22><STEAM_1:0:42575687><CT>" [88 -469 128] with "glock" (headshot)
+L 09/05/2013 - 13:01:02: [SM] Native "PrintToChat" reported: Client index 0 is invalid
+L 09/05/2013 - 13:01:02: [SM] Displaying call stack trace for plugin "bp.smx":
+L 09/05/2013 - 13:01:02: [SM]   [0]  Line 26, bp.sp::Event_RoundEnd()
+L 09/05/2013 - 13:01:02: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "2") (T "11")
+L 09/05/2013 - 13:01:02: Team "CT" scored "2" with "2" players
+L 09/05/2013 - 13:01:02: Team "TERRORIST" scored "11" with "2" players
+L 09/05/2013 - 13:01:02: World triggered "Round_End"
+L 09/05/2013 - 13:01:27: World triggered "Round_Start"
+L 09/05/2013 - 13:01:31: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [359 1163 65] killed "KaiserSoze<21><STEAM_1:1:34140120><TERRORIST>" [-364 1050 129] with "hkp2000"
+L 09/05/2013 - 13:01:49: "Drahtz<22><STEAM_1:0:42575687><CT>" [-135 -826 64] killed "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [45 -998 128] with "hkp2000"
+L 09/05/2013 - 13:01:49: [SM] Native "PrintToChat" reported: Client index 0 is invalid
+L 09/05/2013 - 13:01:49: [SM] Displaying call stack trace for plugin "bp.smx":
+L 09/05/2013 - 13:01:49: [SM]   [0]  Line 26, bp.sp::Event_RoundEnd()
+L 09/05/2013 - 13:01:49: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "3") (T "11")
+L 09/05/2013 - 13:01:49: Team "CT" scored "3" with "2" players
+L 09/05/2013 - 13:01:49: Team "TERRORIST" scored "11" with "2" players
+L 09/05/2013 - 13:01:49: World triggered "Round_End"
+L 09/05/2013 - 13:02:14: World triggered "Round_Start"
+L 09/05/2013 - 13:02:21: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [-92 -103 32] killed "Drahtz<22><STEAM_1:0:42575687><CT>" [-32 -370 128] with "glock" (headshot)
+L 09/05/2013 - 13:02:26: "Cuchillin<19><STEAM_1:1:56695116><TERRORIST>" [-165 -864 64] killed "Dijkstra<20><STEAM_1:0:54679011><CT>" [-121 -896 128] with "glock" (headshot)
+L 09/05/2013 - 13:02:26: [SM] Native "PrintToChat" reported: Client index 0 is invalid
+L 09/05/2013 - 13:02:26: [SM] Displaying call stack trace for plugin "bp.smx":
+L 09/05/2013 - 13:02:26: [SM]   [0]  Line 26, bp.sp::Event_RoundEnd()
+L 09/05/2013 - 13:02:26: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "3") (T "12")
+L 09/05/2013 - 13:02:26: Team "CT" scored "3" with "2" players
+L 09/05/2013 - 13:02:26: Team "TERRORIST" scored "12" with "2" players
+L 09/05/2013 - 13:02:26: World triggered "Round_End"
+L 09/05/2013 - 13:03:16: "Cuchillin<19><STEAM_1:1:56695116>" switched from team <TERRORIST> to <CT>
+L 09/05/2013 - 13:03:16: "Dijkstra<20><STEAM_1:0:54679011>" switched from team <CT> to <TERRORIST>
+L 09/05/2013 - 13:03:16: "KaiserSoze<21><STEAM_1:1:34140120>" switched from team <TERRORIST> to <CT>
+L 09/05/2013 - 13:03:16: "Drahtz<22><STEAM_1:0:42575687>" switched from team <CT> to <TERRORIST>
+L 09/05/2013 - 13:03:17: "KaiserSoze<21><STEAM_1:1:34140120><CT>" triggered "clantag" (value "")
+L 09/05/2013 - 13:03:17: "Cuchillin<19><STEAM_1:1:56695116><CT>" triggered "clantag" (value "")
+L 09/05/2013 - 13:03:17: "Drahtz<22><STEAM_1:0:42575687><TERRORIST>" triggered "clantag" (value "")
+L 09/05/2013 - 13:03:17: "Dijkstra<20><STEAM_1:0:54679011><TERRORIST>" triggered "clantag" (value "")
+L 09/05/2013 - 13:03:31: World triggered "Round_Start"
+L 09/05/2013 - 13:03:37: "Drahtz<22><STEAM_1:0:42575687><TERRORIST>" [-258 887 65] killed "Dijkstra<20><STEAM_1:0:54679011><TERRORIST>" [-292 1228 128] with "glock" (headshot)
+L 09/05/2013 - 13:03:41: "Cuchillin<19><STEAM_1:1:56695116><CT>" [-78 -114 32] killed "KaiserSoze<21><STEAM_1:1:34140120><CT>" [114 -46 96] with "usp_silencer"
+L 09/05/2013 - 13:03:45: "Cuchillin<19><STEAM_1:1:56695116><CT>" [-42 412 64] killed "Drahtz<22><STEAM_1:0:42575687><TERRORIST>" [52 507 128] with "usp_silencer" (headshot)
+L 09/05/2013 - 13:03:45: [SM] Native "PrintToChat" reported: Client index 0 is invalid
+L 09/05/2013 - 13:03:45: [SM] Displaying call stack trace for plugin "bp.smx":
+L 09/05/2013 - 13:03:45: [SM]   [0]  Line 26, bp.sp::Event_RoundEnd()
+L 09/05/2013 - 13:03:45: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "13") (T "3")
+L 09/05/2013 - 13:03:45: Team "CT" scored "13" with "2" players
+L 09/05/2013 - 13:03:45: Team "TERRORIST" scored "3" with "2" players
+L 09/05/2013 - 13:03:45: World triggered "Round_End"
+L 09/05/2013 - 13:04:10: World triggered "Round_Start"
+L 09/05/2013 - 13:04:20: "Cuchillin<19><STEAM_1:1:56695116><CT>" [-30 751 64] killed "Dijkstra<20><STEAM_1:0:54679011><TERRORIST>" [436 978 128] with "usp_silencer" (headshot)
+L 09/05/2013 - 13:04:21: "KaiserSoze<21><STEAM_1:1:34140120><CT>" [59 846 64] killed "Drahtz<22><STEAM_1:0:42575687><TERRORIST>" [234 1226 129] with "usp_silencer"
+L 09/05/2013 - 13:04:21: [SM] Native "PrintToChat" reported: Client index 0 is invalid
+L 09/05/2013 - 13:04:21: [SM] Displaying call stack trace for plugin "bp.smx":
+L 09/05/2013 - 13:04:21: [SM]   [0]  Line 26, bp.sp::Event_RoundEnd()
+L 09/05/2013 - 13:04:21: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "14") (T "3")
+L 09/05/2013 - 13:04:21: Team "CT" scored "14" with "2" players
+L 09/05/2013 - 13:04:21: Team "TERRORIST" scored "3" with "2" players
+L 09/05/2013 - 13:04:21: World triggered "Round_End"
+L 09/05/2013 - 13:04:26: "Cuchillin<19><STEAM_1:1:56695116><CT>" [107 1119 64] killed "KaiserSoze<21><STEAM_1:1:34140120><CT>" [220 1125 128] with "usp_silencer" (headshot)
+L 09/05/2013 - 13:04:46: World triggered "Round_Start"
+L 09/05/2013 - 13:04:55: "KaiserSoze<21><STEAM_1:1:34140120><CT>" [-89 -513 64] killed "Dijkstra<20><STEAM_1:0:54679011><TERRORIST>" [-16 -385 128] with "usp_silencer"
+L 09/05/2013 - 13:04:56: "Drahtz<22><STEAM_1:0:42575687><TERRORIST>" [-4 -302 48] killed "KaiserSoze<21><STEAM_1:1:34140120><CT>" [-89 -513 110] with "glock" (headshot)
+L 09/05/2013 - 13:04:58: "Cuchillin<19><STEAM_1:1:56695116><CT>" [-90 -533 64] killed "Drahtz<22><STEAM_1:0:42575687><TERRORIST>" [-6 -311 115] with "usp_silencer"
+L 09/05/2013 - 13:04:58: [SM] Native "PrintToChat" reported: Client index 0 is invalid
+L 09/05/2013 - 13:04:58: [SM] Displaying call stack trace for plugin "bp.smx":
+L 09/05/2013 - 13:04:58: [SM]   [0]  Line 26, bp.sp::Event_RoundEnd()
+L 09/05/2013 - 13:04:58: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "15") (T "3")
+L 09/05/2013 - 13:04:58: Team "CT" scored "15" with "2" players
+L 09/05/2013 - 13:04:58: Team "TERRORIST" scored "3" with "2" players
+L 09/05/2013 - 13:04:58: World triggered "Round_End"
+L 09/05/2013 - 13:05:23: World triggered "Round_Start"
+L 09/05/2013 - 13:05:30: "Drahtz<22><STEAM_1:0:42575687><TERRORIST>" [208 1038 64] killed "Dijkstra<20><STEAM_1:0:54679011><TERRORIST>" [358 1108 129] with "glock" (headshot)
+L 09/05/2013 - 13:05:35: "KaiserSoze<21><STEAM_1:1:34140120><CT>" [-126 610 64] killed "Drahtz<22><STEAM_1:0:42575687><TERRORIST>" [-252 546 128] with "usp_silencer"
+L 09/05/2013 - 13:05:35: "Cuchillin<19><STEAM_1:1:56695116><CT>" assisted killing "Drahtz<22><STEAM_1:0:42575687><TERRORIST>"
+L 09/05/2013 - 13:05:35: [SM] Native "PrintToChat" reported: Client index 0 is invalid
+L 09/05/2013 - 13:05:35: [SM] Displaying call stack trace for plugin "bp.smx":
+L 09/05/2013 - 13:05:35: [SM]   [0]  Line 26, bp.sp::Event_RoundEnd()
+L 09/05/2013 - 13:05:35: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "16") (T "3")
+L 09/05/2013 - 13:05:35: Team "CT" scored "16" with "2" players
+L 09/05/2013 - 13:05:35: Team "TERRORIST" scored "3" with "2" players
+L 09/05/2013 - 13:05:35: World triggered "Round_End"
+Going to intermission...
+CHANGELEVEL: Looking for next level in mapgroup ''
+Looking for next map in mapgroup ''...
+CHANGELEVEL: GetNextMap failed for mapgroup '', map group invalid or empty
+L 09/05/2013 - 13:05:35: World triggered "Round_Start"
+CHANGELEVEL: Looking for next level in mapgroup ''
+Looking for next map in mapgroup ''...
+CHANGELEVEL: GetNextMap failed for mapgroup '', map group invalid or empty
+CHANGELEVEL: Not changing level, mp_match_end_restart is false, mp_match_end_changelevel is false 
+L 09/05/2013 - 13:05:50: "Cuchillin<19><STEAM_1:1:56695116>" switched from team <CT> to <Unassigned>
+L 09/05/2013 - 13:05:50: "Dijkstra<20><STEAM_1:0:54679011>" switched from team <TERRORIST> to <Unassigned>
+L 09/05/2013 - 13:05:50: "KaiserSoze<21><STEAM_1:1:34140120>" switched from team <CT> to <Unassigned>
+L 09/05/2013 - 13:05:50: "Drahtz<22><STEAM_1:0:42575687>" switched from team <TERRORIST> to <Unassigned>
+L 09/05/2013 - 13:05:50: "Dijkstra<20><STEAM_1:0:54679011><Unassigned>" triggered "clantag" (value "")
+L 09/05/2013 - 13:05:50: "Drahtz<22><STEAM_1:0:42575687><Unassigned>" triggered "clantag" (value "")
+L 09/05/2013 - 13:05:50: "KaiserSoze<21><STEAM_1:1:34140120><Unassigned>" triggered "clantag" (value "")
+L 09/05/2013 - 13:05:50: "Cuchillin<19><STEAM_1:1:56695116><Unassigned>" triggered "clantag" (value "")
+L 09/05/2013 - 13:06:05: World triggered "Round_Start"
+L 09/05/2013 - 13:07:26: "Dijkstra<20><STEAM_1:0:54679011>" switched from team <Unassigned> to <CT>
+L 09/05/2013 - 13:07:27: "Dijkstra<20><STEAM_1:0:54679011><CT>" triggered "clantag" (value "")
+Game will not start until both teams have players.
+Game will not start until both teams have players.

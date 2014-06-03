@@ -1,0 +1,77 @@
+"SaveFile"
+{
+	"timestamp"		"2013-09-05 13:05:35"
+	"map"		"ar_baggage"
+	"round"		"19"
+	"FirstHalfScore"
+	{
+		"team1"		"3"
+		"team2"		"12"
+	}
+	"SecondHalfScore"
+	{
+		"team1"		"1"
+		"team2"		"4"
+	}
+	"History"
+	{
+		"NumConsecutiveTerroristLoses"		"3"
+		"LoserBonus"		"2400"
+	}
+	"PlayersOnTeam1"
+	{
+		"109358022"
+		{
+			"name"		"Dijkstra"
+			"kills"		"4"
+			"assists"		"0"
+			"deaths"		"16"
+			"mvps"		"1"
+			"score"		"4"
+			"cash"		"6500"
+		}
+		"85151374"
+		{
+			"name"		"Drahtz"
+			"kills"		"0"
+			"assists"		"1"
+			"deaths"		"17"
+			"mvps"		"2"
+			"score"		"1"
+			"cash"		"2700"
+		}
+	}
+	"PlayersOnTeam2"
+	{
+		"113390233"
+		{
+			"name"		"Cuchillin"
+			"kills"		"19"
+			"assists"		"1"
+			"deaths"		"4"
+			"mvps"		"13"
+			"score"		"39"
+			"cash"		"9600"
+			"Items"
+			{
+				"item"		"weapon_knife"
+				"item"		"weapon_usp_silencer"
+			}
+		}
+		"68280241"
+		{
+			"name"		"KaiserSoze"
+			"kills"		"5"
+			"assists"		"1"
+			"deaths"		"7"
+			"mvps"		"2"
+			"score"		"11"
+			"cash"		"13700"
+			"Items"
+			{
+				"item"		"weapon_knife"
+				"item"		"weapon_usp_silencer"
+			}
+		}
+	}
+}

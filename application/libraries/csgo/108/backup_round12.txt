@@ -1,0 +1,67 @@
+"SaveFile"
+{
+	"timestamp"		"2013-09-05 13:00:39"
+	"map"		"ar_baggage"
+	"round"		"12"
+	"FirstHalfScore"
+	{
+		"team1"		"2"
+		"team2"		"10"
+	}
+	"History"
+	{
+		"NumConsecutiveTerroristLoses"		"1"
+		"LoserBonus"		"1400"
+	}
+	"PlayersOnTeam1"
+	{
+		"109358022"
+		{
+			"name"		"Dijkstra"
+			"kills"		"2"
+			"assists"		"0"
+			"deaths"		"10"
+			"mvps"		"1"
+			"score"		"4"
+			"cash"		"16000"
+			"Items"
+			{
+				"item"		"weapon_knife"
+				"item"		"weapon_hkp2000"
+			}
+		}
+		"85151374"
+		{
+			"name"		"Drahtz"
+			"kills"		"1"
+			"assists"		"1"
+			"deaths"		"11"
+			"mvps"		"1"
+			"score"		"3"
+			"cash"		"16000"
+		}
+	}
+	"PlayersOnTeam2"
+	{
+		"113390233"
+		{
+			"name"		"Cuchillin"
+			"kills"		"16"
+			"assists"		"0"
+			"deaths"		"3"
+			"mvps"		"8"
+			"score"		"32"
+			"cash"		"14400"
+		}
+		"68280241"
+		{
+			"name"		"KaiserSoze"
+			"kills"		"2"
+			"assists"		"1"
+			"deaths"		"3"
+			"mvps"		"2"
+			"score"		"5"
+			"cash"		"16000"
+		}
+	}
+}

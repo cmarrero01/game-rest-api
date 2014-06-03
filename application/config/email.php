@@ -1,0 +1,21 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed');
+$config['useragent'] = 'CodeIgniter';
+$config['protocol'] = 'smtp';
+//$config['mailpath'] = '/home/development/emails/';
+$config['starttls'] = TRUE;
+$config['smtp_host'] = 'ssl://smtp.sendgrid.net';
+$config['smtp_port'] = 465;
+$config['smtp_user'] = 'mvelazquez';
+$config['smtp_pass'] = 'battlepro2013$';
+$config['smtp_timeout'] = 30;
+
+$config['wordwrap'] = TRUE;
+$config['wrapchars'] = 76;
+$config['mailtype'] = 'html';
+$config['charset'] = 'utf-8';
+$config['validate'] = FALSE;
+$config['priority'] = 3;
+$config['crlf'] = '\n';
+$config['newline'] = '\n';
+$config['bcc_batch_mode'] = FALSE;
+$config['bcc_batch_size'] = '200';

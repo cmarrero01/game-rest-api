@@ -1,0 +1,47 @@
+"SaveFile"
+{
+	"timestamp"		"2013-09-13 15:58:19"
+	"map"		"ar_baggage"
+	"round"		"0"
+	"FirstHalfScore"
+	{
+		"team1"		"0"
+		"team2"		"0"
+	}
+	"History"
+	{
+		"LoserBonus"		"0"
+	}
+	"PlayersOnTeam1"
+	{
+		"113390233"
+		{
+			"name"		"Cuchillin"
+			"kills"		"27"
+			"assists"		"2"
+			"deaths"		"28"
+			"mvps"		"0"
+			"score"		"58"
+			"cash"		"0"
+			"armor"		"100"
+			"helmet"		"1"
+			"Items"
+			{
+				"item"		"weapon_knifegg"
+			}
+		}
+	}
+	"PlayersOnTeam2"
+	{
+		"112745671"
+		{
+			"name"		"cmarrero01"
+			"kills"		"24"
+			"assists"		"0"
+			"deaths"		"31"
+			"mvps"		"0"
+			"score"		"54"
+			"cash"		"0"
+		}
+	}
+}

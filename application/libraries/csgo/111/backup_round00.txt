@@ -1,0 +1,57 @@
+"SaveFile"
+{
+	"timestamp"		"2013-09-12 18:11:09"
+	"map"		"de_bank"
+	"round"		"0"
+	"FirstHalfScore"
+	{
+		"team1"		"0"
+		"team2"		"0"
+	}
+	"History"
+	{
+		"LoserBonus"		"0"
+	}
+	"PlayersOnTeam1"
+	{
+		"113390233"
+		{
+			"name"		"Cuchillin"
+			"kills"		"11"
+			"assists"		"0"
+			"deaths"		"5"
+			"mvps"		"0"
+			"score"		"138"
+			"cash"		"99999"
+			"armor"		"100"
+			"helmet"		"1"
+			"Items"
+			{
+				"item"		"weapon_knife"
+				"item"		"weapon_hkp2000"
+				"item"		"weapon_awp"
+			}
+		}
+	}
+	"PlayersOnTeam2"
+	{
+		"112745671"
+		{
+			"name"		"cmarrero01"
+			"kills"		"5"
+			"assists"		"0"
+			"deaths"		"11"
+			"mvps"		"0"
+			"score"		"63"
+			"cash"		"99999"
+			"armor"		"100"
+			"helmet"		"1"
+			"Items"
+			{
+				"item"		"weapon_knife"
+				"item"		"weapon_glock"
+				"item"		"weapon_awp"
+			}
+		}
+	}
+}
